@@ -1,10 +1,4 @@
-﻿"Population estimates, quarterly" 1 2 3 4
-"Quarterly"
-"Table: 17-10-0009-01 (formerly CANSIM 051-0005)"
-"Geography: Canada, Province or territory"
-
-"Geography","Q1 2020"
-"","Persons"
+"Geography","Persons"
 "Canada","37,894,799"
 "Newfoundland and Labrador","521,365"
 "Prince Edward Island","158,158"
