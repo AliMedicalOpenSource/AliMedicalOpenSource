@@ -1,0 +1,866 @@
+[
+  {
+    "GEOID": "AFG",
+    "POPULATION": 37172386
+  },
+  {
+    "GEOID": "ALB",
+    "POPULATION": 2866376
+  },
+  {
+    "GEOID": "DZA",
+    "POPULATION": 42228429
+  },
+  {
+    "GEOID": "ASM",
+    "POPULATION": 55465
+  },
+  {
+    "GEOID": "AND",
+    "POPULATION": 77006
+  },
+  {
+    "GEOID": "AGO",
+    "POPULATION": 30809762
+  },
+  {
+    "GEOID": "ATG",
+    "POPULATION": 96286
+  },
+  {
+    "GEOID": "ARG",
+    "POPULATION": 44494502
+  },
+  {
+    "GEOID": "ARM",
+    "POPULATION": 2951776
+  },
+  {
+    "GEOID": "ABW",
+    "POPULATION": 105845
+  },
+  {
+    "GEOID": "AUS",
+    "POPULATION": 24992369
+  },
+  {
+    "GEOID": "AUT",
+    "POPULATION": 8847037
+  },
+  {
+    "GEOID": "AZE",
+    "POPULATION": 9942334
+  },
+  {
+    "GEOID": "BHS",
+    "POPULATION": 385640
+  },
+  {
+    "GEOID": "BHR",
+    "POPULATION": 1569439
+  },
+  {
+    "GEOID": "BGD",
+    "POPULATION": 161356039
+  },
+  {
+    "GEOID": "BRB",
+    "POPULATION": 286641
+  },
+  {
+    "GEOID": "BLR",
+    "POPULATION": 9485386
+  },
+  {
+    "GEOID": "BEL",
+    "POPULATION": 11422068
+  },
+  {
+    "GEOID": "BLZ",
+    "POPULATION": 383071
+  },
+  {
+    "GEOID": "BEN",
+    "POPULATION": 11485048
+  },
+  {
+    "GEOID": "BMU",
+    "POPULATION": 63968
+  },
+  {
+    "GEOID": "BTN",
+    "POPULATION": 754394
+  },
+  {
+    "GEOID": "BOL",
+    "POPULATION": 11353142
+  },
+  {
+    "GEOID": "BIH",
+    "POPULATION": 3323929
+  },
+  {
+    "GEOID": "BWA",
+    "POPULATION": 2254126
+  },
+  {
+    "GEOID": "BRA",
+    "POPULATION": 209469333
+  },
+  {
+    "GEOID": "VGB",
+    "POPULATION": 29802
+  },
+  {
+    "GEOID": "BRN",
+    "POPULATION": 428962
+  },
+  {
+    "GEOID": "BGR",
+    "POPULATION": 7024216
+  },
+  {
+    "GEOID": "BFA",
+    "POPULATION": 19751535
+  },
+  {
+    "GEOID": "BDI",
+    "POPULATION": 11175378
+  },
+  {
+    "GEOID": "CPV",
+    "POPULATION": 543767
+  },
+  {
+    "GEOID": "KHM",
+    "POPULATION": 16249798
+  },
+  {
+    "GEOID": "CMR",
+    "POPULATION": 25216237
+  },
+  {
+    "GEOID": "CAN",
+    "POPULATION": 37058856
+  },
+  {
+    "GEOID": "CYM",
+    "POPULATION": 64174
+  },
+  {
+    "GEOID": "CAF",
+    "POPULATION": 4666377
+  },
+  {
+    "GEOID": "TCD",
+    "POPULATION": 15477751
+  },
+  {
+    "GEOID": "CHL",
+    "POPULATION": 18729160
+  },
+  {
+    "GEOID": "CHN",
+    "POPULATION": 1392730000
+  },
+  {
+    "GEOID": "COL",
+    "POPULATION": 49648685
+  },
+  {
+    "GEOID": "COM",
+    "POPULATION": 832322
+  },
+  {
+    "GEOID": "COD",
+    "POPULATION": 84068091
+  },
+  {
+    "GEOID": "COG",
+    "POPULATION": 5244363
+  },
+  {
+    "GEOID": "CRI",
+    "POPULATION": 4999441
+  },
+  {
+    "GEOID": "CIV",
+    "POPULATION": 25069229
+  },
+  {
+    "GEOID": "HRV",
+    "POPULATION": 4089400
+  },
+  {
+    "GEOID": "CUB",
+    "POPULATION": 11338138
+  },
+  {
+    "GEOID": "CUW",
+    "POPULATION": 159849
+  },
+  {
+    "GEOID": "CYP",
+    "POPULATION": 1189265
+  },
+  {
+    "GEOID": "CZE",
+    "POPULATION": 10625695
+  },
+  {
+    "GEOID": "DNK",
+    "POPULATION": 5797446
+  },
+  {
+    "GEOID": "DJI",
+    "POPULATION": 958920
+  },
+  {
+    "GEOID": "DMA",
+    "POPULATION": 71625
+  },
+  {
+    "GEOID": "DOM",
+    "POPULATION": 10627165
+  },
+  {
+    "GEOID": "ECU",
+    "POPULATION": 17084357
+  },
+  {
+    "GEOID": "EGY",
+    "POPULATION": 98423595
+  },
+  {
+    "GEOID": "SLV",
+    "POPULATION": 6420744
+  },
+  {
+    "GEOID": "GNQ",
+    "POPULATION": 1308974
+  },
+  {
+    "GEOID": "ERI",
+    "POPULATION": ""
+  },
+  {
+    "GEOID": "EST",
+    "POPULATION": 1320884
+  },
+  {
+    "GEOID": "SWZ",
+    "POPULATION": 1136191
+  },
+  {
+    "GEOID": "ETH",
+    "POPULATION": 109224559
+  },
+  {
+    "GEOID": "FRO",
+    "POPULATION": 48497
+  },
+  {
+    "GEOID": "FJI",
+    "POPULATION": 883483
+  },
+  {
+    "GEOID": "FIN",
+    "POPULATION": 5518050
+  },
+  {
+    "GEOID": "FRA",
+    "POPULATION": 66987244
+  },
+  {
+    "GEOID": "PYF",
+    "POPULATION": 277679
+  },
+  {
+    "GEOID": "GAB",
+    "POPULATION": 2119275
+  },
+  {
+    "GEOID": "GMB",
+    "POPULATION": 2280102
+  },
+  {
+    "GEOID": "GEO",
+    "POPULATION": 3731000
+  },
+  {
+    "GEOID": "DEU",
+    "POPULATION": 82927922
+  },
+  {
+    "GEOID": "GHA",
+    "POPULATION": 29767108
+  },
+  {
+    "GEOID": "GIB",
+    "POPULATION": 33718
+  },
+  {
+    "GEOID": "GRC",
+    "POPULATION": 10727668
+  },
+  {
+    "GEOID": "GRL",
+    "POPULATION": 56025
+  },
+  {
+    "GEOID": "GRD",
+    "POPULATION": 111454
+  },
+  {
+    "GEOID": "GUM",
+    "POPULATION": 165768
+  },
+  {
+    "GEOID": "GTM",
+    "POPULATION": 17247807
+  },
+  {
+    "GEOID": "GIN",
+    "POPULATION": 12414318
+  },
+  {
+    "GEOID": "GNB",
+    "POPULATION": 1874309
+  },
+  {
+    "GEOID": "GUY",
+    "POPULATION": 779004
+  },
+  {
+    "GEOID": "HTI",
+    "POPULATION": 11123176
+  },
+  {
+    "GEOID": "HND",
+    "POPULATION": 9587522
+  },
+  {
+    "GEOID": "HKG",
+    "POPULATION": 7451000
+  },
+  {
+    "GEOID": "HUN",
+    "POPULATION": 9768785
+  },
+  {
+    "GEOID": "ISL",
+    "POPULATION": 353574
+  },
+  {
+    "GEOID": "IND",
+    "POPULATION": 1352617328
+  },
+  {
+    "GEOID": "IDN",
+    "POPULATION": 267663435
+  },
+  {
+    "GEOID": "IRN",
+    "POPULATION": 81800269
+  },
+  {
+    "GEOID": "IRQ",
+    "POPULATION": 38433600
+  },
+  {
+    "GEOID": "IRL",
+    "POPULATION": 4853506
+  },
+  {
+    "GEOID": "IMN",
+    "POPULATION": 84077
+  },
+  {
+    "GEOID": "ISR",
+    "POPULATION": 8883800
+  },
+  {
+    "GEOID": "ITA",
+    "POPULATION": 60431283
+  },
+  {
+    "GEOID": "JAM",
+    "POPULATION": 2934855
+  },
+  {
+    "GEOID": "JPN",
+    "POPULATION": 126529100
+  },
+  {
+    "GEOID": "JOR",
+    "POPULATION": 9956011
+  },
+  {
+    "GEOID": "KAZ",
+    "POPULATION": 18276499
+  },
+  {
+    "GEOID": "KEN",
+    "POPULATION": 51393010
+  },
+  {
+    "GEOID": "KIR",
+    "POPULATION": 115847
+  },
+  {
+    "GEOID": "PRK",
+    "POPULATION": 25549819
+  },
+  {
+    "GEOID": "KOR",
+    "POPULATION": 51635256
+  },
+  {
+    "GEOID": "XKX",
+    "POPULATION": 1845300
+  },
+  {
+    "GEOID": "KWT",
+    "POPULATION": 4137309
+  },
+  {
+    "GEOID": "KGZ",
+    "POPULATION": 6315800
+  },
+  {
+    "GEOID": "LAO",
+    "POPULATION": 7061507
+  },
+  {
+    "GEOID": "LVA",
+    "POPULATION": 1926542
+  },
+  {
+    "GEOID": "LBN",
+    "POPULATION": 6848925
+  },
+  {
+    "GEOID": "LSO",
+    "POPULATION": 2108132
+  },
+  {
+    "GEOID": "LBR",
+    "POPULATION": 4818977
+  },
+  {
+    "GEOID": "LBY",
+    "POPULATION": 6678567
+  },
+  {
+    "GEOID": "LIE",
+    "POPULATION": 37910
+  },
+  {
+    "GEOID": "LTU",
+    "POPULATION": 2789533
+  },
+  {
+    "GEOID": "LUX",
+    "POPULATION": 607728
+  },
+  {
+    "GEOID": "MAC",
+    "POPULATION": 631636
+  },
+  {
+    "GEOID": "MDG",
+    "POPULATION": 26262368
+  },
+  {
+    "GEOID": "MWI",
+    "POPULATION": 18143315
+  },
+  {
+    "GEOID": "MYS",
+    "POPULATION": 31528585
+  },
+  {
+    "GEOID": "MDV",
+    "POPULATION": 515696
+  },
+  {
+    "GEOID": "MLI",
+    "POPULATION": 19077690
+  },
+  {
+    "GEOID": "MLT",
+    "POPULATION": 483530
+  },
+  {
+    "GEOID": "MHL",
+    "POPULATION": 58413
+  },
+  {
+    "GEOID": "MRT",
+    "POPULATION": 4403319
+  },
+  {
+    "GEOID": "MUS",
+    "POPULATION": 1265303
+  },
+  {
+    "GEOID": "MEX",
+    "POPULATION": 126190788
+  },
+  {
+    "GEOID": "FSM",
+    "POPULATION": 112640
+  },
+  {
+    "GEOID": "MDA",
+    "POPULATION": 3545883
+  },
+  {
+    "GEOID": "MCO",
+    "POPULATION": 38682
+  },
+  {
+    "GEOID": "MNG",
+    "POPULATION": 3170208
+  },
+  {
+    "GEOID": "MNE",
+    "POPULATION": 622345
+  },
+  {
+    "GEOID": "MAR",
+    "POPULATION": 36029138
+  },
+  {
+    "GEOID": "MOZ",
+    "POPULATION": 29495962
+  },
+  {
+    "GEOID": "MMR",
+    "POPULATION": 53708395
+  },
+  {
+    "GEOID": "NAM",
+    "POPULATION": 2448255
+  },
+  {
+    "GEOID": "NRU",
+    "POPULATION": 12704
+  },
+  {
+    "GEOID": "NPL",
+    "POPULATION": 28087871
+  },
+  {
+    "GEOID": "NLD",
+    "POPULATION": 17231017
+  },
+  {
+    "GEOID": "NCL",
+    "POPULATION": 284060
+  },
+  {
+    "GEOID": "NZL",
+    "POPULATION": 4885500
+  },
+  {
+    "GEOID": "NIC",
+    "POPULATION": 6465513
+  },
+  {
+    "GEOID": "NER",
+    "POPULATION": 22442948
+  },
+  {
+    "GEOID": "NGA",
+    "POPULATION": 195874740
+  },
+  {
+    "GEOID": "MKD",
+    "POPULATION": 2082958
+  },
+  {
+    "GEOID": "MNP",
+    "POPULATION": 56882
+  },
+  {
+    "GEOID": "NOR",
+    "POPULATION": 5314336
+  },
+  {
+    "GEOID": "OMN",
+    "POPULATION": 4829483
+  },
+  {
+    "GEOID": "PAK",
+    "POPULATION": 212215030
+  },
+  {
+    "GEOID": "PLW",
+    "POPULATION": 17907
+  },
+  {
+    "GEOID": "PAN",
+    "POPULATION": 4176873
+  },
+  {
+    "GEOID": "PNG",
+    "POPULATION": 8606316
+  },
+  {
+    "GEOID": "PRY",
+    "POPULATION": 6956071
+  },
+  {
+    "GEOID": "PER",
+    "POPULATION": 31989256
+  },
+  {
+    "GEOID": "PHL",
+    "POPULATION": 106651922
+  },
+  {
+    "GEOID": "POL",
+    "POPULATION": 37978548
+  },
+  {
+    "GEOID": "PRT",
+    "POPULATION": 10281762
+  },
+  {
+    "GEOID": "PRI",
+    "POPULATION": 3195153
+  },
+  {
+    "GEOID": "QAT",
+    "POPULATION": 2781677
+  },
+  {
+    "GEOID": "ROU",
+    "POPULATION": 19473936
+  },
+  {
+    "GEOID": "RUS",
+    "POPULATION": 144478050
+  },
+  {
+    "GEOID": "RWA",
+    "POPULATION": 12301939
+  },
+  {
+    "GEOID": "WSM",
+    "POPULATION": 196130
+  },
+  {
+    "GEOID": "SMR",
+    "POPULATION": 33785
+  },
+  {
+    "GEOID": "STP",
+    "POPULATION": 211028
+  },
+  {
+    "GEOID": "SAU",
+    "POPULATION": 33699947
+  },
+  {
+    "GEOID": "SEN",
+    "POPULATION": 15854360
+  },
+  {
+    "GEOID": "SRB",
+    "POPULATION": 6982084
+  },
+  {
+    "GEOID": "SYC",
+    "POPULATION": 96762
+  },
+  {
+    "GEOID": "SLE",
+    "POPULATION": 7650154
+  },
+  {
+    "GEOID": "SGP",
+    "POPULATION": 5638676
+  },
+  {
+    "GEOID": "SXM",
+    "POPULATION": 40654
+  },
+  {
+    "GEOID": "SVK",
+    "POPULATION": 5447011
+  },
+  {
+    "GEOID": "SVN",
+    "POPULATION": 2067372
+  },
+  {
+    "GEOID": "SLB",
+    "POPULATION": 652858
+  },
+  {
+    "GEOID": "SOM",
+    "POPULATION": 15008154
+  },
+  {
+    "GEOID": "ZAF",
+    "POPULATION": 57779622
+  },
+  {
+    "GEOID": "SSD",
+    "POPULATION": 10975920
+  },
+  {
+    "GEOID": "ESP",
+    "POPULATION": 46723749
+  },
+  {
+    "GEOID": "LKA",
+    "POPULATION": 21670000
+  },
+  {
+    "GEOID": "KNA",
+    "POPULATION": 52441
+  },
+  {
+    "GEOID": "LCA",
+    "POPULATION": 181889
+  },
+  {
+    "GEOID": "MAF",
+    "POPULATION": 37264
+  },
+  {
+    "GEOID": "VCT",
+    "POPULATION": 110210
+  },
+  {
+    "GEOID": "SDN",
+    "POPULATION": 41801533
+  },
+  {
+    "GEOID": "SUR",
+    "POPULATION": 575991
+  },
+  {
+    "GEOID": "SWE",
+    "POPULATION": 10183175
+  },
+  {
+    "GEOID": "CHE",
+    "POPULATION": 8516543
+  },
+  {
+    "GEOID": "SYR",
+    "POPULATION": 16906283
+  },
+  {
+    "GEOID": "TJK",
+    "POPULATION": 9100837
+  },
+  {
+    "GEOID": "TZA",
+    "POPULATION": 56318348
+  },
+  {
+    "GEOID": "THA",
+    "POPULATION": 69428524
+  },
+  {
+    "GEOID": "TLS",
+    "POPULATION": 1267972
+  },
+  {
+    "GEOID": "TGO",
+    "POPULATION": 7889094
+  },
+  {
+    "GEOID": "TON",
+    "POPULATION": 103197
+  },
+  {
+    "GEOID": "TTO",
+    "POPULATION": 1389858
+  },
+  {
+    "GEOID": "TUN",
+    "POPULATION": 11565204
+  },
+  {
+    "GEOID": "TUR",
+    "POPULATION": 82319724
+  },
+  {
+    "GEOID": "TKM",
+    "POPULATION": 5850908
+  },
+  {
+    "GEOID": "TCA",
+    "POPULATION": 37665
+  },
+  {
+    "GEOID": "TUV",
+    "POPULATION": 11508
+  },
+  {
+    "GEOID": "UGA",
+    "POPULATION": 42723139
+  },
+  {
+    "GEOID": "UKR",
+    "POPULATION": 44622516
+  },
+  {
+    "GEOID": "ARE",
+    "POPULATION": 9630959
+  },
+  {
+    "GEOID": "GBR",
+    "POPULATION": 66488991
+  },
+  {
+    "GEOID": "USA",
+    "POPULATION": 327167434
+  },
+  {
+    "GEOID": "URY",
+    "POPULATION": 3449299
+  },
+  {
+    "GEOID": "UZB",
+    "POPULATION": 32955400
+  },
+  {
+    "GEOID": "VUT",
+    "POPULATION": 292680
+  },
+  {
+    "GEOID": "VEN",
+    "POPULATION": 28870195
+  },
+  {
+    "GEOID": "VNM",
+    "POPULATION": 95540395
+  },
+  {
+    "GEOID": "VIR",
+    "POPULATION": 106977
+  },
+  {
+    "GEOID": "PSE",
+    "POPULATION": 4569087
+  },
+  {
+    "GEOID": "YEM",
+    "POPULATION": 28498687
+  },
+  {
+    "GEOID": "ZMB",
+    "POPULATION": 17351822
+  },
+  {
+    "GEOID": "ZWE",
+    "POPULATION": 14439018
+  }
+]
