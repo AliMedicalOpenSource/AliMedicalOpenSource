@@ -2319,6 +2319,16 @@
             "GrowthRate": "1.0025",
             "WorldPercentage": "0.0000",
             "rank": 232
+        },
+        {
+            "cca2": "XK",
+            "name": "Kosovo",
+            "pop2020": "1.810366 ",
+            "area": "10",
+            "Density": "159",
+            "GrowthRate": ".08",
+            "WorldPercentage": "0.0000",
+            "rank": undefined
         }
     ]
 }
