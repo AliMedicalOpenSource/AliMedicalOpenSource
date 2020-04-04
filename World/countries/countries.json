@@ -2094,5 +2094,13 @@
       "Country_Number":null,
       "ISO3166-1alpha-3":null,
       "ISO3166-1alpha-2 ":"XS"
+   },
+   {
+      "Continent_Code":"EU",
+      "Continent_Name":"Europe",
+      "Country_Name":"Kosovo",
+      "Country_Number":null,
+      "ISO3166-1alpha-3":"XKX",
+      "ISO3166-1alpha-2 ":"XK"
    }
 ]
