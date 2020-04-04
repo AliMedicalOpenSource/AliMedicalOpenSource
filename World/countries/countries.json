@@ -5,7 +5,7 @@
       "Country_Name":"Afghanistan, Islamic Republic of",
       "Country_Number":4,
       "ISO3166-1alpha-3":"AFG",
-      "ISO3166-1alpha-2 ":"AF"
+      "ISO3166-1alpha-2":"AF"
    },
    {
       "Continent_Code":"EU",
@@ -13,7 +13,7 @@
       "Country_Name":"Albania, Republic of",
       "Country_Number":8,
       "ISO3166-1alpha-3":"ALB",
-      "ISO3166-1alpha-2 ":"AL"
+      "ISO3166-1alpha-2":"AL"
    },
    {
       "Continent_Code":"AN",
@@ -21,7 +21,7 @@
       "Country_Name":"Antarctica (the territory South of 60 deg S)",
       "Country_Number":10,
       "ISO3166-1alpha-3":"ATA",
-      "ISO3166-1alpha-2 ":"AQ"
+      "ISO3166-1alpha-2":"AQ"
    },
    {
       "Continent_Code":"AF",
@@ -29,7 +29,7 @@
       "Country_Name":"Algeria, People's Democratic Republic of",
       "Country_Number":12,
       "ISO3166-1alpha-3":"DZA",
-      "ISO3166-1alpha-2 ":"DZ"
+      "ISO3166-1alpha-2":"DZ"
    },
    {
       "Continent_Code":"OC",
@@ -37,7 +37,7 @@
       "Country_Name":"American Samoa",
       "Country_Number":16,
       "ISO3166-1alpha-3":"ASM",
-      "ISO3166-1alpha-2 ":"AS"
+      "ISO3166-1alpha-2":"AS"
    },
    {
       "Continent_Code":"EU",
@@ -45,7 +45,7 @@
       "Country_Name":"Andorra, Principality of",
       "Country_Number":20,
       "ISO3166-1alpha-3":"AND",
-      "ISO3166-1alpha-2 ":"AD"
+      "ISO3166-1alpha-2":"AD"
    },
    {
       "Continent_Code":"AF",
@@ -53,7 +53,7 @@
       "Country_Name":"Angola, Republic of",
       "Country_Number":24,
       "ISO3166-1alpha-3":"AGO",
-      "ISO3166-1alpha-2 ":"AO"
+      "ISO3166-1alpha-2":"AO"
    },
    {
       "Continent_Code":"NA",
@@ -61,7 +61,7 @@
       "Country_Name":"Antigua and Barbuda",
       "Country_Number":28,
       "ISO3166-1alpha-3":"ATG",
-      "ISO3166-1alpha-2 ":"AG"
+      "ISO3166-1alpha-2":"AG"
    },
    {
       "Continent_Code":"EU",
@@ -69,7 +69,7 @@
       "Country_Name":"Azerbaijan, Republic of",
       "Country_Number":31,
       "ISO3166-1alpha-3":"AZE",
-      "ISO3166-1alpha-2 ":"AZ"
+      "ISO3166-1alpha-2":"AZ"
    },
    {
       "Continent_Code":"AS",
@@ -77,7 +77,7 @@
       "Country_Name":"Azerbaijan, Republic of",
       "Country_Number":31,
       "ISO3166-1alpha-3":"AZE",
-      "ISO3166-1alpha-2 ":"AZ"
+      "ISO3166-1alpha-2":"AZ"
    },
    {
       "Continent_Code":"SA",
@@ -85,7 +85,7 @@
       "Country_Name":"Argentina, Argentine Republic",
       "Country_Number":32,
       "ISO3166-1alpha-3":"ARG",
-      "ISO3166-1alpha-2 ":"AR"
+      "ISO3166-1alpha-2":"AR"
    },
    {
       "Continent_Code":"OC",
@@ -93,7 +93,7 @@
       "Country_Name":"Australia, Commonwealth of",
       "Country_Number":36,
       "ISO3166-1alpha-3":"AUS",
-      "ISO3166-1alpha-2 ":"AU"
+      "ISO3166-1alpha-2":"AU"
    },
    {
       "Continent_Code":"EU",
@@ -101,7 +101,7 @@
       "Country_Name":"Austria, Republic of",
       "Country_Number":40,
       "ISO3166-1alpha-3":"AUT",
-      "ISO3166-1alpha-2 ":"AT"
+      "ISO3166-1alpha-2":"AT"
    },
    {
       "Continent_Code":"NA",
@@ -109,7 +109,7 @@
       "Country_Name":"Bahamas, Commonwealth of the",
       "Country_Number":44,
       "ISO3166-1alpha-3":"BHS",
-      "ISO3166-1alpha-2 ":"BS"
+      "ISO3166-1alpha-2":"BS"
    },
    {
       "Continent_Code":"AS",
@@ -117,7 +117,7 @@
       "Country_Name":"Bahrain, Kingdom of",
       "Country_Number":48,
       "ISO3166-1alpha-3":"BHR",
-      "ISO3166-1alpha-2 ":"BH"
+      "ISO3166-1alpha-2":"BH"
    },
    {
       "Continent_Code":"AS",
@@ -125,7 +125,7 @@
       "Country_Name":"Bangladesh, People's Republic of",
       "Country_Number":50,
       "ISO3166-1alpha-3":"BGD",
-      "ISO3166-1alpha-2 ":"BD"
+      "ISO3166-1alpha-2":"BD"
    },
    {
       "Continent_Code":"EU",
@@ -133,7 +133,7 @@
       "Country_Name":"Armenia, Republic of",
       "Country_Number":51,
       "ISO3166-1alpha-3":"ARM",
-      "ISO3166-1alpha-2 ":"AM"
+      "ISO3166-1alpha-2":"AM"
    },
    {
       "Continent_Code":"AS",
@@ -141,7 +141,7 @@
       "Country_Name":"Armenia, Republic of",
       "Country_Number":51,
       "ISO3166-1alpha-3":"ARM",
-      "ISO3166-1alpha-2 ":"AM"
+      "ISO3166-1alpha-2":"AM"
    },
    {
       "Continent_Code":"NA",
@@ -149,7 +149,7 @@
       "Country_Name":"Barbados",
       "Country_Number":52,
       "ISO3166-1alpha-3":"BRB",
-      "ISO3166-1alpha-2 ":"BB"
+      "ISO3166-1alpha-2":"BB"
    },
    {
       "Continent_Code":"EU",
@@ -157,7 +157,7 @@
       "Country_Name":"Belgium, Kingdom of",
       "Country_Number":56,
       "ISO3166-1alpha-3":"BEL",
-      "ISO3166-1alpha-2 ":"BE"
+      "ISO3166-1alpha-2":"BE"
    },
    {
       "Continent_Code":"NA",
@@ -165,7 +165,7 @@
       "Country_Name":"Bermuda",
       "Country_Number":60,
       "ISO3166-1alpha-3":"BMU",
-      "ISO3166-1alpha-2 ":"BM"
+      "ISO3166-1alpha-2":"BM"
    },
    {
       "Continent_Code":"AS",
@@ -173,7 +173,7 @@
       "Country_Name":"Bhutan, Kingdom of",
       "Country_Number":64,
       "ISO3166-1alpha-3":"BTN",
-      "ISO3166-1alpha-2 ":"BT"
+      "ISO3166-1alpha-2":"BT"
    },
    {
       "Continent_Code":"SA",
@@ -181,7 +181,7 @@
       "Country_Name":"Bolivia, Republic of",
       "Country_Number":68,
       "ISO3166-1alpha-3":"BOL",
-      "ISO3166-1alpha-2 ":"BO"
+      "ISO3166-1alpha-2":"BO"
    },
    {
       "Continent_Code":"EU",
@@ -189,7 +189,7 @@
       "Country_Name":"Bosnia and Herzegovina",
       "Country_Number":70,
       "ISO3166-1alpha-3":"BIH",
-      "ISO3166-1alpha-2 ":"BA"
+      "ISO3166-1alpha-2":"BA"
    },
    {
       "Continent_Code":"AF",
@@ -197,7 +197,7 @@
       "Country_Name":"Botswana, Republic of",
       "Country_Number":72,
       "ISO3166-1alpha-3":"BWA",
-      "ISO3166-1alpha-2 ":"BW"
+      "ISO3166-1alpha-2":"BW"
    },
    {
       "Continent_Code":"AN",
@@ -205,7 +205,7 @@
       "Country_Name":"Bouvet Island (Bouvetoya)",
       "Country_Number":74,
       "ISO3166-1alpha-3":"BVT",
-      "ISO3166-1alpha-2 ":"BV"
+      "ISO3166-1alpha-2":"BV"
    },
    {
       "Continent_Code":"SA",
@@ -213,7 +213,7 @@
       "Country_Name":"Brazil, Federative Republic of",
       "Country_Number":76,
       "ISO3166-1alpha-3":"BRA",
-      "ISO3166-1alpha-2 ":"BR"
+      "ISO3166-1alpha-2":"BR"
    },
    {
       "Continent_Code":"NA",
@@ -221,7 +221,7 @@
       "Country_Name":"Belize",
       "Country_Number":84,
       "ISO3166-1alpha-3":"BLZ",
-      "ISO3166-1alpha-2 ":"BZ"
+      "ISO3166-1alpha-2":"BZ"
    },
    {
       "Continent_Code":"AS",
@@ -229,7 +229,7 @@
       "Country_Name":"British Indian Ocean Territory (Chagos Archipelago)",
       "Country_Number":86,
       "ISO3166-1alpha-3":"IOT",
-      "ISO3166-1alpha-2 ":"IO"
+      "ISO3166-1alpha-2":"IO"
    },
    {
       "Continent_Code":"OC",
@@ -237,7 +237,7 @@
       "Country_Name":"Solomon Islands",
       "Country_Number":90,
       "ISO3166-1alpha-3":"SLB",
-      "ISO3166-1alpha-2 ":"SB"
+      "ISO3166-1alpha-2":"SB"
    },
    {
       "Continent_Code":"NA",
@@ -245,7 +245,7 @@
       "Country_Name":"British Virgin Islands",
       "Country_Number":92,
       "ISO3166-1alpha-3":"VGB",
-      "ISO3166-1alpha-2 ":"VG"
+      "ISO3166-1alpha-2":"VG"
    },
    {
       "Continent_Code":"AS",
@@ -253,7 +253,7 @@
       "Country_Name":"Brunei Darussalam",
       "Country_Number":96,
       "ISO3166-1alpha-3":"BRN",
-      "ISO3166-1alpha-2 ":"BN"
+      "ISO3166-1alpha-2":"BN"
    },
    {
       "Continent_Code":"EU",
@@ -261,7 +261,7 @@
       "Country_Name":"Bulgaria, Republic of",
       "Country_Number":100,
       "ISO3166-1alpha-3":"BGR",
-      "ISO3166-1alpha-2 ":"BG"
+      "ISO3166-1alpha-2":"BG"
    },
    {
       "Continent_Code":"AS",
@@ -269,7 +269,7 @@
       "Country_Name":"Myanmar, Union of",
       "Country_Number":104,
       "ISO3166-1alpha-3":"MMR",
-      "ISO3166-1alpha-2 ":"MM"
+      "ISO3166-1alpha-2":"MM"
    },
    {
       "Continent_Code":"AF",
@@ -277,7 +277,7 @@
       "Country_Name":"Burundi, Republic of",
       "Country_Number":108,
       "ISO3166-1alpha-3":"BDI",
-      "ISO3166-1alpha-2 ":"BI"
+      "ISO3166-1alpha-2":"BI"
    },
    {
       "Continent_Code":"EU",
@@ -285,7 +285,7 @@
       "Country_Name":"Belarus, Republic of",
       "Country_Number":112,
       "ISO3166-1alpha-3":"BLR",
-      "ISO3166-1alpha-2 ":"BY"
+      "ISO3166-1alpha-2":"BY"
    },
    {
       "Continent_Code":"AS",
@@ -293,7 +293,7 @@
       "Country_Name":"Cambodia, Kingdom of",
       "Country_Number":116,
       "ISO3166-1alpha-3":"KHM",
-      "ISO3166-1alpha-2 ":"KH"
+      "ISO3166-1alpha-2":"KH"
    },
    {
       "Continent_Code":"AF",
@@ -301,7 +301,7 @@
       "Country_Name":"Cameroon, Republic of",
       "Country_Number":120,
       "ISO3166-1alpha-3":"CMR",
-      "ISO3166-1alpha-2 ":"CM"
+      "ISO3166-1alpha-2":"CM"
    },
    {
       "Continent_Code":"NA",
@@ -309,7 +309,7 @@
       "Country_Name":"Canada",
       "Country_Number":124,
       "ISO3166-1alpha-3":"CAN",
-      "ISO3166-1alpha-2 ":"CA"
+      "ISO3166-1alpha-2":"CA"
    },
    {
       "Continent_Code":"AF",
@@ -317,7 +317,7 @@
       "Country_Name":"Cape Verde, Republic of",
       "Country_Number":132,
       "ISO3166-1alpha-3":"CPV",
-      "ISO3166-1alpha-2 ":"CV"
+      "ISO3166-1alpha-2":"CV"
    },
    {
       "Continent_Code":"NA",
@@ -325,7 +325,7 @@
       "Country_Name":"Cayman Islands",
       "Country_Number":136,
       "ISO3166-1alpha-3":"CYM",
-      "ISO3166-1alpha-2 ":"KY"
+      "ISO3166-1alpha-2":"KY"
    },
    {
       "Continent_Code":"AF",
@@ -333,7 +333,7 @@
       "Country_Name":"Central African Republic",
       "Country_Number":140,
       "ISO3166-1alpha-3":"CAF",
-      "ISO3166-1alpha-2 ":"CF"
+      "ISO3166-1alpha-2":"CF"
    },
    {
       "Continent_Code":"AS",
@@ -341,7 +341,7 @@
       "Country_Name":"Sri Lanka, Democratic Socialist Republic of",
       "Country_Number":144,
       "ISO3166-1alpha-3":"LKA",
-      "ISO3166-1alpha-2 ":"LK"
+      "ISO3166-1alpha-2":"LK"
    },
    {
       "Continent_Code":"AF",
@@ -349,7 +349,7 @@
       "Country_Name":"Chad, Republic of",
       "Country_Number":148,
       "ISO3166-1alpha-3":"TCD",
-      "ISO3166-1alpha-2 ":"TD"
+      "ISO3166-1alpha-2":"TD"
    },
    {
       "Continent_Code":"SA",
@@ -357,7 +357,7 @@
       "Country_Name":"Chile, Republic of",
       "Country_Number":152,
       "ISO3166-1alpha-3":"CHL",
-      "ISO3166-1alpha-2 ":"CL"
+      "ISO3166-1alpha-2":"CL"
    },
    {
       "Continent_Code":"AS",
@@ -365,7 +365,7 @@
       "Country_Name":"China, People's Republic of",
       "Country_Number":156,
       "ISO3166-1alpha-3":"CHN",
-      "ISO3166-1alpha-2 ":"CN"
+      "ISO3166-1alpha-2":"CN"
    },
    {
       "Continent_Code":"AS",
@@ -373,7 +373,7 @@
       "Country_Name":"Taiwan",
       "Country_Number":158,
       "ISO3166-1alpha-3":"TWN",
-      "ISO3166-1alpha-2 ":"TW"
+      "ISO3166-1alpha-2":"TW"
    },
    {
       "Continent_Code":"AS",
@@ -381,7 +381,7 @@
       "Country_Name":"Christmas Island",
       "Country_Number":162,
       "ISO3166-1alpha-3":"CXR",
-      "ISO3166-1alpha-2 ":"CX"
+      "ISO3166-1alpha-2":"CX"
    },
    {
       "Continent_Code":"AS",
@@ -389,7 +389,7 @@
       "Country_Name":"Cocos (Keeling) Islands",
       "Country_Number":166,
       "ISO3166-1alpha-3":"CCK",
-      "ISO3166-1alpha-2 ":"CC"
+      "ISO3166-1alpha-2":"CC"
    },
    {
       "Continent_Code":"SA",
@@ -397,7 +397,7 @@
       "Country_Name":"Colombia, Republic of",
       "Country_Number":170,
       "ISO3166-1alpha-3":"COL",
-      "ISO3166-1alpha-2 ":"CO"
+      "ISO3166-1alpha-2":"CO"
    },
    {
       "Continent_Code":"AF",
@@ -405,7 +405,7 @@
       "Country_Name":"Comoros, Union of the",
       "Country_Number":174,
       "ISO3166-1alpha-3":"COM",
-      "ISO3166-1alpha-2 ":"KM"
+      "ISO3166-1alpha-2":"KM"
    },
    {
       "Continent_Code":"AF",
@@ -413,7 +413,7 @@
       "Country_Name":"Mayotte",
       "Country_Number":175,
       "ISO3166-1alpha-3":"MYT",
-      "ISO3166-1alpha-2 ":"YT"
+      "ISO3166-1alpha-2":"YT"
    },
    {
       "Continent_Code":"AF",
@@ -421,7 +421,7 @@
       "Country_Name":"Congo, Republic of the",
       "Country_Number":178,
       "ISO3166-1alpha-3":"COG",
-      "ISO3166-1alpha-2 ":"CG"
+      "ISO3166-1alpha-2":"CG"
    },
    {
       "Continent_Code":"AF",
@@ -429,7 +429,7 @@
       "Country_Name":"Congo, Democratic Republic of the",
       "Country_Number":180,
       "ISO3166-1alpha-3":"COD",
-      "ISO3166-1alpha-2 ":"CD"
+      "ISO3166-1alpha-2":"CD"
    },
    {
       "Continent_Code":"OC",
@@ -437,7 +437,7 @@
       "Country_Name":"Cook Islands",
       "Country_Number":184,
       "ISO3166-1alpha-3":"COK",
-      "ISO3166-1alpha-2 ":"CK"
+      "ISO3166-1alpha-2":"CK"
    },
    {
       "Continent_Code":"NA",
@@ -445,7 +445,7 @@
       "Country_Name":"Costa Rica, Republic of",
       "Country_Number":188,
       "ISO3166-1alpha-3":"CRI",
-      "ISO3166-1alpha-2 ":"CR"
+      "ISO3166-1alpha-2":"CR"
    },
    {
       "Continent_Code":"EU",
@@ -453,7 +453,7 @@
       "Country_Name":"Croatia, Republic of",
       "Country_Number":191,
       "ISO3166-1alpha-3":"HRV",
-      "ISO3166-1alpha-2 ":"HR"
+      "ISO3166-1alpha-2":"HR"
    },
    {
       "Continent_Code":"NA",
@@ -461,7 +461,7 @@
       "Country_Name":"Cuba, Republic of",
       "Country_Number":192,
       "ISO3166-1alpha-3":"CUB",
-      "ISO3166-1alpha-2 ":"CU"
+      "ISO3166-1alpha-2":"CU"
    },
    {
       "Continent_Code":"EU",
@@ -469,7 +469,7 @@
       "Country_Name":"Cyprus, Republic of",
       "Country_Number":196,
       "ISO3166-1alpha-3":"CYP",
-      "ISO3166-1alpha-2 ":"CY"
+      "ISO3166-1alpha-2":"CY"
    },
    {
       "Continent_Code":"AS",
@@ -477,7 +477,7 @@
       "Country_Name":"Cyprus, Republic of",
       "Country_Number":196,
       "ISO3166-1alpha-3":"CYP",
-      "ISO3166-1alpha-2 ":"CY"
+      "ISO3166-1alpha-2":"CY"
    },
    {
       "Continent_Code":"EU",
@@ -485,7 +485,7 @@
       "Country_Name":"Czech Republic",
       "Country_Number":203,
       "ISO3166-1alpha-3":"CZE",
-      "ISO3166-1alpha-2 ":"CZ"
+      "ISO3166-1alpha-2":"CZ"
    },
    {
       "Continent_Code":"AF",
@@ -493,7 +493,7 @@
       "Country_Name":"Benin, Republic of",
       "Country_Number":204,
       "ISO3166-1alpha-3":"BEN",
-      "ISO3166-1alpha-2 ":"BJ"
+      "ISO3166-1alpha-2":"BJ"
    },
    {
       "Continent_Code":"EU",
@@ -501,7 +501,7 @@
       "Country_Name":"Denmark, Kingdom of",
       "Country_Number":208,
       "ISO3166-1alpha-3":"DNK",
-      "ISO3166-1alpha-2 ":"DK"
+      "ISO3166-1alpha-2":"DK"
    },
    {
       "Continent_Code":"NA",
@@ -509,7 +509,7 @@
       "Country_Name":"Dominica, Commonwealth of",
       "Country_Number":212,
       "ISO3166-1alpha-3":"DMA",
-      "ISO3166-1alpha-2 ":"DM"
+      "ISO3166-1alpha-2":"DM"
    },
    {
       "Continent_Code":"NA",
@@ -517,7 +517,7 @@
       "Country_Name":"Dominican Republic",
       "Country_Number":214,
       "ISO3166-1alpha-3":"DOM",
-      "ISO3166-1alpha-2 ":"DO"
+      "ISO3166-1alpha-2":"DO"
    },
    {
       "Continent_Code":"SA",
@@ -525,7 +525,7 @@
       "Country_Name":"Ecuador, Republic of",
       "Country_Number":218,
       "ISO3166-1alpha-3":"ECU",
-      "ISO3166-1alpha-2 ":"EC"
+      "ISO3166-1alpha-2":"EC"
    },
    {
       "Continent_Code":"NA",
@@ -533,7 +533,7 @@
       "Country_Name":"El Salvador, Republic of",
       "Country_Number":222,
       "ISO3166-1alpha-3":"SLV",
-      "ISO3166-1alpha-2 ":"SV"
+      "ISO3166-1alpha-2":"SV"
    },
    {
       "Continent_Code":"AF",
@@ -541,7 +541,7 @@
       "Country_Name":"Equatorial Guinea, Republic of",
       "Country_Number":226,
       "ISO3166-1alpha-3":"GNQ",
-      "ISO3166-1alpha-2 ":"GQ"
+      "ISO3166-1alpha-2":"GQ"
    },
    {
       "Continent_Code":"AF",
@@ -549,7 +549,7 @@
       "Country_Name":"Ethiopia, Federal Democratic Republic of",
       "Country_Number":231,
       "ISO3166-1alpha-3":"ETH",
-      "ISO3166-1alpha-2 ":"ET"
+      "ISO3166-1alpha-2":"ET"
    },
    {
       "Continent_Code":"AF",
@@ -557,7 +557,7 @@
       "Country_Name":"Eritrea, State of",
       "Country_Number":232,
       "ISO3166-1alpha-3":"ERI",
-      "ISO3166-1alpha-2 ":"ER"
+      "ISO3166-1alpha-2":"ER"
    },
    {
       "Continent_Code":"EU",
@@ -565,7 +565,7 @@
       "Country_Name":"Estonia, Republic of",
       "Country_Number":233,
       "ISO3166-1alpha-3":"EST",
-      "ISO3166-1alpha-2 ":"EE"
+      "ISO3166-1alpha-2":"EE"
    },
    {
       "Continent_Code":"EU",
@@ -573,7 +573,7 @@
       "Country_Name":"Faroe Islands",
       "Country_Number":234,
       "ISO3166-1alpha-3":"FRO",
-      "ISO3166-1alpha-2 ":"FO"
+      "ISO3166-1alpha-2":"FO"
    },
    {
       "Continent_Code":"SA",
@@ -581,7 +581,7 @@
       "Country_Name":"Falkland Islands (Malvinas)",
       "Country_Number":238,
       "ISO3166-1alpha-3":"FLK",
-      "ISO3166-1alpha-2 ":"FK"
+      "ISO3166-1alpha-2":"FK"
    },
    {
       "Continent_Code":"AN",
@@ -589,7 +589,7 @@
       "Country_Name":"South Georgia and the South Sandwich Islands",
       "Country_Number":239,
       "ISO3166-1alpha-3":"SGS",
-      "ISO3166-1alpha-2 ":"GS"
+      "ISO3166-1alpha-2":"GS"
    },
    {
       "Continent_Code":"OC",
@@ -597,7 +597,7 @@
       "Country_Name":"Fiji, Republic of the Fiji Islands",
       "Country_Number":242,
       "ISO3166-1alpha-3":"FJI",
-      "ISO3166-1alpha-2 ":"FJ"
+      "ISO3166-1alpha-2":"FJ"
    },
    {
       "Continent_Code":"EU",
@@ -605,7 +605,7 @@
       "Country_Name":"Finland, Republic of",
       "Country_Number":246,
       "ISO3166-1alpha-3":"FIN",
-      "ISO3166-1alpha-2 ":"FI"
+      "ISO3166-1alpha-2":"FI"
    },
    {
       "Continent_Code":"EU",
@@ -613,7 +613,7 @@
       "Country_Name":"\u00c5land Islands",
       "Country_Number":248,
       "ISO3166-1alpha-3":"ALA",
-      "ISO3166-1alpha-2 ":"AX"
+      "ISO3166-1alpha-2":"AX"
    },
    {
       "Continent_Code":"EU",
@@ -621,7 +621,7 @@
       "Country_Name":"France, French Republic",
       "Country_Number":250,
       "ISO3166-1alpha-3":"FRA",
-      "ISO3166-1alpha-2 ":"FR"
+      "ISO3166-1alpha-2":"FR"
    },
    {
       "Continent_Code":"SA",
@@ -629,7 +629,7 @@
       "Country_Name":"French Guiana",
       "Country_Number":254,
       "ISO3166-1alpha-3":"GUF",
-      "ISO3166-1alpha-2 ":"GF"
+      "ISO3166-1alpha-2":"GF"
    },
    {
       "Continent_Code":"OC",
@@ -637,7 +637,7 @@
       "Country_Name":"French Polynesia",
       "Country_Number":258,
       "ISO3166-1alpha-3":"PYF",
-      "ISO3166-1alpha-2 ":"PF"
+      "ISO3166-1alpha-2":"PF"
    },
    {
       "Continent_Code":"AN",
@@ -645,7 +645,7 @@
       "Country_Name":"French Southern Territories",
       "Country_Number":260,
       "ISO3166-1alpha-3":"ATF",
-      "ISO3166-1alpha-2 ":"TF"
+      "ISO3166-1alpha-2":"TF"
    },
    {
       "Continent_Code":"AF",
@@ -653,7 +653,7 @@
       "Country_Name":"Djibouti, Republic of",
       "Country_Number":262,
       "ISO3166-1alpha-3":"DJI",
-      "ISO3166-1alpha-2 ":"DJ"
+      "ISO3166-1alpha-2":"DJ"
    },
    {
       "Continent_Code":"AF",
@@ -661,7 +661,7 @@
       "Country_Name":"Gabon, Gabonese Republic",
       "Country_Number":266,
       "ISO3166-1alpha-3":"GAB",
-      "ISO3166-1alpha-2 ":"GA"
+      "ISO3166-1alpha-2":"GA"
    },
    {
       "Continent_Code":"EU",
@@ -669,7 +669,7 @@
       "Country_Name":"Georgia",
       "Country_Number":268,
       "ISO3166-1alpha-3":"GEO",
-      "ISO3166-1alpha-2 ":"GE"
+      "ISO3166-1alpha-2":"GE"
    },
    {
       "Continent_Code":"AS",
@@ -677,7 +677,7 @@
       "Country_Name":"Georgia",
       "Country_Number":268,
       "ISO3166-1alpha-3":"GEO",
-      "ISO3166-1alpha-2 ":"GE"
+      "ISO3166-1alpha-2":"GE"
    },
    {
       "Continent_Code":"AF",
@@ -685,7 +685,7 @@
       "Country_Name":"Gambia, Republic of the",
       "Country_Number":270,
       "ISO3166-1alpha-3":"GMB",
-      "ISO3166-1alpha-2 ":"GM"
+      "ISO3166-1alpha-2":"GM"
    },
    {
       "Continent_Code":"AS",
@@ -693,7 +693,7 @@
       "Country_Name":"Palestinian Territory, Occupied",
       "Country_Number":275,
       "ISO3166-1alpha-3":"PSE",
-      "ISO3166-1alpha-2 ":"PS"
+      "ISO3166-1alpha-2":"PS"
    },
    {
       "Continent_Code":"EU",
@@ -701,7 +701,7 @@
       "Country_Name":"Germany, Federal Republic of",
       "Country_Number":276,
       "ISO3166-1alpha-3":"DEU",
-      "ISO3166-1alpha-2 ":"DE"
+      "ISO3166-1alpha-2":"DE"
    },
    {
       "Continent_Code":"AF",
@@ -709,7 +709,7 @@
       "Country_Name":"Ghana, Republic of",
       "Country_Number":288,
       "ISO3166-1alpha-3":"GHA",
-      "ISO3166-1alpha-2 ":"GH"
+      "ISO3166-1alpha-2":"GH"
    },
    {
       "Continent_Code":"EU",
@@ -717,7 +717,7 @@
       "Country_Name":"Gibraltar",
       "Country_Number":292,
       "ISO3166-1alpha-3":"GIB",
-      "ISO3166-1alpha-2 ":"GI"
+      "ISO3166-1alpha-2":"GI"
    },
    {
       "Continent_Code":"OC",
@@ -725,7 +725,7 @@
       "Country_Name":"Kiribati, Republic of",
       "Country_Number":296,
       "ISO3166-1alpha-3":"KIR",
-      "ISO3166-1alpha-2 ":"KI"
+      "ISO3166-1alpha-2":"KI"
    },
    {
       "Continent_Code":"EU",
@@ -733,7 +733,7 @@
       "Country_Name":"Greece, Hellenic Republic",
       "Country_Number":300,
       "ISO3166-1alpha-3":"GRC",
-      "ISO3166-1alpha-2 ":"GR"
+      "ISO3166-1alpha-2":"GR"
    },
    {
       "Continent_Code":"NA",
@@ -741,7 +741,7 @@
       "Country_Name":"Greenland",
       "Country_Number":304,
       "ISO3166-1alpha-3":"GRL",
-      "ISO3166-1alpha-2 ":"GL"
+      "ISO3166-1alpha-2":"GL"
    },
    {
       "Continent_Code":"NA",
@@ -749,7 +749,7 @@
       "Country_Name":"Grenada",
       "Country_Number":308,
       "ISO3166-1alpha-3":"GRD",
-      "ISO3166-1alpha-2 ":"GD"
+      "ISO3166-1alpha-2":"GD"
    },
    {
       "Continent_Code":"NA",
@@ -757,7 +757,7 @@
       "Country_Name":"Guadeloupe",
       "Country_Number":312,
       "ISO3166-1alpha-3":"GLP",
-      "ISO3166-1alpha-2 ":"GP"
+      "ISO3166-1alpha-2":"GP"
    },
    {
       "Continent_Code":"OC",
@@ -765,7 +765,7 @@
       "Country_Name":"Guam",
       "Country_Number":316,
       "ISO3166-1alpha-3":"GUM",
-      "ISO3166-1alpha-2 ":"GU"
+      "ISO3166-1alpha-2":"GU"
    },
    {
       "Continent_Code":"NA",
@@ -773,7 +773,7 @@
       "Country_Name":"Guatemala, Republic of",
       "Country_Number":320,
       "ISO3166-1alpha-3":"GTM",
-      "ISO3166-1alpha-2 ":"GT"
+      "ISO3166-1alpha-2":"GT"
    },
    {
       "Continent_Code":"AF",
@@ -781,7 +781,7 @@
       "Country_Name":"Guinea, Republic of",
       "Country_Number":324,
       "ISO3166-1alpha-3":"GIN",
-      "ISO3166-1alpha-2 ":"GN"
+      "ISO3166-1alpha-2":"GN"
    },
    {
       "Continent_Code":"SA",
@@ -789,7 +789,7 @@
       "Country_Name":"Guyana, Co-operative Republic of",
       "Country_Number":328,
       "ISO3166-1alpha-3":"GUY",
-      "ISO3166-1alpha-2 ":"GY"
+      "ISO3166-1alpha-2":"GY"
    },
    {
       "Continent_Code":"NA",
@@ -797,7 +797,7 @@
       "Country_Name":"Haiti, Republic of",
       "Country_Number":332,
       "ISO3166-1alpha-3":"HTI",
-      "ISO3166-1alpha-2 ":"HT"
+      "ISO3166-1alpha-2":"HT"
    },
    {
       "Continent_Code":"AN",
@@ -805,7 +805,7 @@
       "Country_Name":"Heard Island and McDonald Islands",
       "Country_Number":334,
       "ISO3166-1alpha-3":"HMD",
-      "ISO3166-1alpha-2 ":"HM"
+      "ISO3166-1alpha-2":"HM"
    },
    {
       "Continent_Code":"EU",
@@ -813,7 +813,7 @@
       "Country_Name":"Holy See (Vatican City State)",
       "Country_Number":336,
       "ISO3166-1alpha-3":"VAT",
-      "ISO3166-1alpha-2 ":"VA"
+      "ISO3166-1alpha-2":"VA"
    },
    {
       "Continent_Code":"NA",
@@ -821,7 +821,7 @@
       "Country_Name":"Honduras, Republic of",
       "Country_Number":340,
       "ISO3166-1alpha-3":"HND",
-      "ISO3166-1alpha-2 ":"HN"
+      "ISO3166-1alpha-2":"HN"
    },
    {
       "Continent_Code":"AS",
@@ -829,7 +829,7 @@
       "Country_Name":"Hong Kong, Special Administrative Region of China",
       "Country_Number":344,
       "ISO3166-1alpha-3":"HKG",
-      "ISO3166-1alpha-2 ":"HK"
+      "ISO3166-1alpha-2":"HK"
    },
    {
       "Continent_Code":"EU",
@@ -837,7 +837,7 @@
       "Country_Name":"Hungary, Republic of",
       "Country_Number":348,
       "ISO3166-1alpha-3":"HUN",
-      "ISO3166-1alpha-2 ":"HU"
+      "ISO3166-1alpha-2":"HU"
    },
    {
       "Continent_Code":"EU",
@@ -845,7 +845,7 @@
       "Country_Name":"Iceland, Republic of",
       "Country_Number":352,
       "ISO3166-1alpha-3":"ISL",
-      "ISO3166-1alpha-2 ":"IS"
+      "ISO3166-1alpha-2":"IS"
    },
    {
       "Continent_Code":"AS",
@@ -853,7 +853,7 @@
       "Country_Name":"India, Republic of",
       "Country_Number":356,
       "ISO3166-1alpha-3":"IND",
-      "ISO3166-1alpha-2 ":"IN"
+      "ISO3166-1alpha-2":"IN"
    },
    {
       "Continent_Code":"AS",
@@ -861,7 +861,7 @@
       "Country_Name":"Indonesia, Republic of",
       "Country_Number":360,
       "ISO3166-1alpha-3":"IDN",
-      "ISO3166-1alpha-2 ":"ID"
+      "ISO3166-1alpha-2":"ID"
    },
    {
       "Continent_Code":"AS",
@@ -869,7 +869,7 @@
       "Country_Name":"Iran, Islamic Republic of",
       "Country_Number":364,
       "ISO3166-1alpha-3":"IRN",
-      "ISO3166-1alpha-2 ":"IR"
+      "ISO3166-1alpha-2":"IR"
    },
    {
       "Continent_Code":"AS",
@@ -877,7 +877,7 @@
       "Country_Name":"Iraq, Republic of",
       "Country_Number":368,
       "ISO3166-1alpha-3":"IRQ",
-      "ISO3166-1alpha-2 ":"IQ"
+      "ISO3166-1alpha-2":"IQ"
    },
    {
       "Continent_Code":"EU",
@@ -885,7 +885,7 @@
       "Country_Name":"Ireland",
       "Country_Number":372,
       "ISO3166-1alpha-3":"IRL",
-      "ISO3166-1alpha-2 ":"IE"
+      "ISO3166-1alpha-2":"IE"
    },
    {
       "Continent_Code":"AS",
@@ -893,7 +893,7 @@
       "Country_Name":"Israel, State of",
       "Country_Number":376,
       "ISO3166-1alpha-3":"ISR",
-      "ISO3166-1alpha-2 ":"IL"
+      "ISO3166-1alpha-2":"IL"
    },
    {
       "Continent_Code":"EU",
@@ -901,7 +901,7 @@
       "Country_Name":"Italy, Italian Republic",
       "Country_Number":380,
       "ISO3166-1alpha-3":"ITA",
-      "ISO3166-1alpha-2 ":"IT"
+      "ISO3166-1alpha-2":"IT"
    },
    {
       "Continent_Code":"AF",
@@ -909,7 +909,7 @@
       "Country_Name":"Cote d'Ivoire, Republic of",
       "Country_Number":384,
       "ISO3166-1alpha-3":"CIV",
-      "ISO3166-1alpha-2 ":"CI"
+      "ISO3166-1alpha-2":"CI"
    },
    {
       "Continent_Code":"NA",
@@ -917,7 +917,7 @@
       "Country_Name":"Jamaica",
       "Country_Number":388,
       "ISO3166-1alpha-3":"JAM",
-      "ISO3166-1alpha-2 ":"JM"
+      "ISO3166-1alpha-2":"JM"
    },
    {
       "Continent_Code":"AS",
@@ -925,7 +925,7 @@
       "Country_Name":"Japan",
       "Country_Number":392,
       "ISO3166-1alpha-3":"JPN",
-      "ISO3166-1alpha-2 ":"JP"
+      "ISO3166-1alpha-2":"JP"
    },
    {
       "Continent_Code":"EU",
@@ -933,7 +933,7 @@
       "Country_Name":"Kazakhstan, Republic of",
       "Country_Number":398,
       "ISO3166-1alpha-3":"KAZ",
-      "ISO3166-1alpha-2 ":"KZ"
+      "ISO3166-1alpha-2":"KZ"
    },
    {
       "Continent_Code":"AS",
@@ -941,7 +941,7 @@
       "Country_Name":"Kazakhstan, Republic of",
       "Country_Number":398,
       "ISO3166-1alpha-3":"KAZ",
-      "ISO3166-1alpha-2 ":"KZ"
+      "ISO3166-1alpha-2":"KZ"
    },
    {
       "Continent_Code":"AS",
@@ -949,7 +949,7 @@
       "Country_Name":"Jordan, Hashemite Kingdom of",
       "Country_Number":400,
       "ISO3166-1alpha-3":"JOR",
-      "ISO3166-1alpha-2 ":"JO"
+      "ISO3166-1alpha-2":"JO"
    },
    {
       "Continent_Code":"AF",
@@ -957,7 +957,7 @@
       "Country_Name":"Kenya, Republic of",
       "Country_Number":404,
       "ISO3166-1alpha-3":"KEN",
-      "ISO3166-1alpha-2 ":"KE"
+      "ISO3166-1alpha-2":"KE"
    },
    {
       "Continent_Code":"AS",
@@ -965,7 +965,7 @@
       "Country_Name":"Korea, Democratic People's Republic of",
       "Country_Number":408,
       "ISO3166-1alpha-3":"PRK",
-      "ISO3166-1alpha-2 ":"KP"
+      "ISO3166-1alpha-2":"KP"
    },
    {
       "Continent_Code":"AS",
@@ -973,7 +973,7 @@
       "Country_Name":"Korea, Republic of",
       "Country_Number":410,
       "ISO3166-1alpha-3":"KOR",
-      "ISO3166-1alpha-2 ":"KR"
+      "ISO3166-1alpha-2":"KR"
    },
    {
       "Continent_Code":"AS",
@@ -981,7 +981,7 @@
       "Country_Name":"Kuwait, State of",
       "Country_Number":414,
       "ISO3166-1alpha-3":"KWT",
-      "ISO3166-1alpha-2 ":"KW"
+      "ISO3166-1alpha-2":"KW"
    },
    {
       "Continent_Code":"AS",
@@ -989,7 +989,7 @@
       "Country_Name":"Kyrgyz Republic",
       "Country_Number":417,
       "ISO3166-1alpha-3":"KGZ",
-      "ISO3166-1alpha-2 ":"KG"
+      "ISO3166-1alpha-2":"KG"
    },
    {
       "Continent_Code":"AS",
@@ -997,7 +997,7 @@
       "Country_Name":"Lao People's Democratic Republic",
       "Country_Number":418,
       "ISO3166-1alpha-3":"LAO",
-      "ISO3166-1alpha-2 ":"LA"
+      "ISO3166-1alpha-2":"LA"
    },
    {
       "Continent_Code":"AS",
@@ -1005,7 +1005,7 @@
       "Country_Name":"Lebanon, Lebanese Republic",
       "Country_Number":422,
       "ISO3166-1alpha-3":"LBN",
-      "ISO3166-1alpha-2 ":"LB"
+      "ISO3166-1alpha-2":"LB"
    },
    {
       "Continent_Code":"AF",
@@ -1013,7 +1013,7 @@
       "Country_Name":"Lesotho, Kingdom of",
       "Country_Number":426,
       "ISO3166-1alpha-3":"LSO",
-      "ISO3166-1alpha-2 ":"LS"
+      "ISO3166-1alpha-2":"LS"
    },
    {
       "Continent_Code":"EU",
@@ -1021,7 +1021,7 @@
       "Country_Name":"Latvia, Republic of",
       "Country_Number":428,
       "ISO3166-1alpha-3":"LVA",
-      "ISO3166-1alpha-2 ":"LV"
+      "ISO3166-1alpha-2":"LV"
    },
    {
       "Continent_Code":"AF",
@@ -1029,7 +1029,7 @@
       "Country_Name":"Liberia, Republic of",
       "Country_Number":430,
       "ISO3166-1alpha-3":"LBR",
-      "ISO3166-1alpha-2 ":"LR"
+      "ISO3166-1alpha-2":"LR"
    },
    {
       "Continent_Code":"AF",
@@ -1037,7 +1037,7 @@
       "Country_Name":"Libyan Arab Jamahiriya",
       "Country_Number":434,
       "ISO3166-1alpha-3":"LBY",
-      "ISO3166-1alpha-2 ":"LY"
+      "ISO3166-1alpha-2":"LY"
    },
    {
       "Continent_Code":"EU",
@@ -1045,7 +1045,7 @@
       "Country_Name":"Liechtenstein, Principality of",
       "Country_Number":438,
       "ISO3166-1alpha-3":"LIE",
-      "ISO3166-1alpha-2 ":"LI"
+      "ISO3166-1alpha-2":"LI"
    },
    {
       "Continent_Code":"EU",
@@ -1053,7 +1053,7 @@
       "Country_Name":"Lithuania, Republic of",
       "Country_Number":440,
       "ISO3166-1alpha-3":"LTU",
-      "ISO3166-1alpha-2 ":"LT"
+      "ISO3166-1alpha-2":"LT"
    },
    {
       "Continent_Code":"EU",
@@ -1061,7 +1061,7 @@
       "Country_Name":"Luxembourg, Grand Duchy of",
       "Country_Number":442,
       "ISO3166-1alpha-3":"LUX",
-      "ISO3166-1alpha-2 ":"LU"
+      "ISO3166-1alpha-2":"LU"
    },
    {
       "Continent_Code":"AS",
@@ -1069,7 +1069,7 @@
       "Country_Name":"Macao, Special Administrative Region of China",
       "Country_Number":446,
       "ISO3166-1alpha-3":"MAC",
-      "ISO3166-1alpha-2 ":"MO"
+      "ISO3166-1alpha-2":"MO"
    },
    {
       "Continent_Code":"AF",
@@ -1077,7 +1077,7 @@
       "Country_Name":"Madagascar, Republic of",
       "Country_Number":450,
       "ISO3166-1alpha-3":"MDG",
-      "ISO3166-1alpha-2 ":"MG"
+      "ISO3166-1alpha-2":"MG"
    },
    {
       "Continent_Code":"AF",
@@ -1085,7 +1085,7 @@
       "Country_Name":"Malawi, Republic of",
       "Country_Number":454,
       "ISO3166-1alpha-3":"MWI",
-      "ISO3166-1alpha-2 ":"MW"
+      "ISO3166-1alpha-2":"MW"
    },
    {
       "Continent_Code":"AS",
@@ -1093,7 +1093,7 @@
       "Country_Name":"Malaysia",
       "Country_Number":458,
       "ISO3166-1alpha-3":"MYS",
-      "ISO3166-1alpha-2 ":"MY"
+      "ISO3166-1alpha-2":"MY"
    },
    {
       "Continent_Code":"AS",
@@ -1101,7 +1101,7 @@
       "Country_Name":"Maldives, Republic of",
       "Country_Number":462,
       "ISO3166-1alpha-3":"MDV",
-      "ISO3166-1alpha-2 ":"MV"
+      "ISO3166-1alpha-2":"MV"
    },
    {
       "Continent_Code":"AF",
@@ -1109,7 +1109,7 @@
       "Country_Name":"Mali, Republic of",
       "Country_Number":466,
       "ISO3166-1alpha-3":"MLI",
-      "ISO3166-1alpha-2 ":"ML"
+      "ISO3166-1alpha-2":"ML"
    },
    {
       "Continent_Code":"EU",
@@ -1117,7 +1117,7 @@
       "Country_Name":"Malta, Republic of",
       "Country_Number":470,
       "ISO3166-1alpha-3":"MLT",
-      "ISO3166-1alpha-2 ":"MT"
+      "ISO3166-1alpha-2":"MT"
    },
    {
       "Continent_Code":"NA",
@@ -1125,7 +1125,7 @@
       "Country_Name":"Martinique",
       "Country_Number":474,
       "ISO3166-1alpha-3":"MTQ",
-      "ISO3166-1alpha-2 ":"MQ"
+      "ISO3166-1alpha-2":"MQ"
    },
    {
       "Continent_Code":"AF",
@@ -1133,7 +1133,7 @@
       "Country_Name":"Mauritania, Islamic Republic of",
       "Country_Number":478,
       "ISO3166-1alpha-3":"MRT",
-      "ISO3166-1alpha-2 ":"MR"
+      "ISO3166-1alpha-2":"MR"
    },
    {
       "Continent_Code":"AF",
@@ -1141,7 +1141,7 @@
       "Country_Name":"Mauritius, Republic of",
       "Country_Number":480,
       "ISO3166-1alpha-3":"MUS",
-      "ISO3166-1alpha-2 ":"MU"
+      "ISO3166-1alpha-2":"MU"
    },
    {
       "Continent_Code":"NA",
@@ -1149,7 +1149,7 @@
       "Country_Name":"Mexico, United Mexican States",
       "Country_Number":484,
       "ISO3166-1alpha-3":"MEX",
-      "ISO3166-1alpha-2 ":"MX"
+      "ISO3166-1alpha-2":"MX"
    },
    {
       "Continent_Code":"EU",
@@ -1157,7 +1157,7 @@
       "Country_Name":"Monaco, Principality of",
       "Country_Number":492,
       "ISO3166-1alpha-3":"MCO",
-      "ISO3166-1alpha-2 ":"MC"
+      "ISO3166-1alpha-2":"MC"
    },
    {
       "Continent_Code":"AS",
@@ -1165,7 +1165,7 @@
       "Country_Name":"Mongolia",
       "Country_Number":496,
       "ISO3166-1alpha-3":"MNG",
-      "ISO3166-1alpha-2 ":"MN"
+      "ISO3166-1alpha-2":"MN"
    },
    {
       "Continent_Code":"EU",
@@ -1173,7 +1173,7 @@
       "Country_Name":"Moldova, Republic of",
       "Country_Number":498,
       "ISO3166-1alpha-3":"MDA",
-      "ISO3166-1alpha-2 ":"MD"
+      "ISO3166-1alpha-2":"MD"
    },
    {
       "Continent_Code":"EU",
@@ -1181,7 +1181,7 @@
       "Country_Name":"Montenegro, Republic of",
       "Country_Number":499,
       "ISO3166-1alpha-3":"MNE",
-      "ISO3166-1alpha-2 ":"ME"
+      "ISO3166-1alpha-2":"ME"
    },
    {
       "Continent_Code":"NA",
@@ -1189,7 +1189,7 @@
       "Country_Name":"Montserrat",
       "Country_Number":500,
       "ISO3166-1alpha-3":"MSR",
-      "ISO3166-1alpha-2 ":"MS"
+      "ISO3166-1alpha-2":"MS"
    },
    {
       "Continent_Code":"AF",
@@ -1197,7 +1197,7 @@
       "Country_Name":"Morocco, Kingdom of",
       "Country_Number":504,
       "ISO3166-1alpha-3":"MAR",
-      "ISO3166-1alpha-2 ":"MA"
+      "ISO3166-1alpha-2":"MA"
    },
    {
       "Continent_Code":"AF",
@@ -1205,7 +1205,7 @@
       "Country_Name":"Mozambique, Republic of",
       "Country_Number":508,
       "ISO3166-1alpha-3":"MOZ",
-      "ISO3166-1alpha-2 ":"MZ"
+      "ISO3166-1alpha-2":"MZ"
    },
    {
       "Continent_Code":"AS",
@@ -1213,7 +1213,7 @@
       "Country_Name":"Oman, Sultanate of",
       "Country_Number":512,
       "ISO3166-1alpha-3":"OMN",
-      "ISO3166-1alpha-2 ":"OM"
+      "ISO3166-1alpha-2":"OM"
    },
    {
       "Continent_Code":"AF",
@@ -1221,7 +1221,7 @@
       "Country_Name":"Namibia, Republic of",
       "Country_Number":516,
       "ISO3166-1alpha-3":"NAM",
-      "ISO3166-1alpha-2 ":"NA"
+      "ISO3166-1alpha-2":"NA"
    },
    {
       "Continent_Code":"OC",
@@ -1229,7 +1229,7 @@
       "Country_Name":"Nauru, Republic of",
       "Country_Number":520,
       "ISO3166-1alpha-3":"NRU",
-      "ISO3166-1alpha-2 ":"NR"
+      "ISO3166-1alpha-2":"NR"
    },
    {
       "Continent_Code":"AS",
@@ -1237,7 +1237,7 @@
       "Country_Name":"Nepal, State of",
       "Country_Number":524,
       "ISO3166-1alpha-3":"NPL",
-      "ISO3166-1alpha-2 ":"NP"
+      "ISO3166-1alpha-2":"NP"
    },
    {
       "Continent_Code":"EU",
@@ -1245,7 +1245,7 @@
       "Country_Name":"Netherlands, Kingdom of the",
       "Country_Number":528,
       "ISO3166-1alpha-3":"NLD",
-      "ISO3166-1alpha-2 ":"NL"
+      "ISO3166-1alpha-2":"NL"
    },
    {
       "Continent_Code":"NA",
@@ -1253,7 +1253,7 @@
       "Country_Name":"Netherlands Antilles",
       "Country_Number":530,
       "ISO3166-1alpha-3":"ANT",
-      "ISO3166-1alpha-2 ":"AN"
+      "ISO3166-1alpha-2":"AN"
    },
    {
       "Continent_Code":"NA",
@@ -1261,7 +1261,7 @@
       "Country_Name":"Cura\u00e7ao",
       "Country_Number":531,
       "ISO3166-1alpha-3":"CUW",
-      "ISO3166-1alpha-2 ":"CW"
+      "ISO3166-1alpha-2":"CW"
    },
    {
       "Continent_Code":"NA",
@@ -1269,7 +1269,7 @@
       "Country_Name":"Aruba",
       "Country_Number":533,
       "ISO3166-1alpha-3":"ABW",
-      "ISO3166-1alpha-2 ":"AW"
+      "ISO3166-1alpha-2":"AW"
    },
    {
       "Continent_Code":"NA",
@@ -1277,7 +1277,7 @@
       "Country_Name":"Sint Maarten (Netherlands)",
       "Country_Number":534,
       "ISO3166-1alpha-3":"SXM",
-      "ISO3166-1alpha-2 ":"SX"
+      "ISO3166-1alpha-2":"SX"
    },
    {
       "Continent_Code":"NA",
@@ -1285,7 +1285,7 @@
       "Country_Name":"Bonaire, Sint Eustatius and Saba",
       "Country_Number":535,
       "ISO3166-1alpha-3":"BES",
-      "ISO3166-1alpha-2 ":"BQ"
+      "ISO3166-1alpha-2":"BQ"
    },
    {
       "Continent_Code":"OC",
@@ -1293,7 +1293,7 @@
       "Country_Name":"New Caledonia",
       "Country_Number":540,
       "ISO3166-1alpha-3":"NCL",
-      "ISO3166-1alpha-2 ":"NC"
+      "ISO3166-1alpha-2":"NC"
    },
    {
       "Continent_Code":"OC",
@@ -1301,7 +1301,7 @@
       "Country_Name":"Vanuatu, Republic of",
       "Country_Number":548,
       "ISO3166-1alpha-3":"VUT",
-      "ISO3166-1alpha-2 ":"VU"
+      "ISO3166-1alpha-2":"VU"
    },
    {
       "Continent_Code":"OC",
@@ -1309,7 +1309,7 @@
       "Country_Name":"New Zealand",
       "Country_Number":554,
       "ISO3166-1alpha-3":"NZL",
-      "ISO3166-1alpha-2 ":"NZ"
+      "ISO3166-1alpha-2":"NZ"
    },
    {
       "Continent_Code":"NA",
@@ -1317,7 +1317,7 @@
       "Country_Name":"Nicaragua, Republic of",
       "Country_Number":558,
       "ISO3166-1alpha-3":"NIC",
-      "ISO3166-1alpha-2 ":"NI"
+      "ISO3166-1alpha-2":"NI"
    },
    {
       "Continent_Code":"AF",
@@ -1325,7 +1325,7 @@
       "Country_Name":"Niger, Republic of",
       "Country_Number":562,
       "ISO3166-1alpha-3":"NER",
-      "ISO3166-1alpha-2 ":"NE"
+      "ISO3166-1alpha-2":"NE"
    },
    {
       "Continent_Code":"AF",
@@ -1333,7 +1333,7 @@
       "Country_Name":"Nigeria, Federal Republic of",
       "Country_Number":566,
       "ISO3166-1alpha-3":"NGA",
-      "ISO3166-1alpha-2 ":"NG"
+      "ISO3166-1alpha-2":"NG"
    },
    {
       "Continent_Code":"OC",
@@ -1341,7 +1341,7 @@
       "Country_Name":"Niue",
       "Country_Number":570,
       "ISO3166-1alpha-3":"NIU",
-      "ISO3166-1alpha-2 ":"NU"
+      "ISO3166-1alpha-2":"NU"
    },
    {
       "Continent_Code":"OC",
@@ -1349,7 +1349,7 @@
       "Country_Name":"Norfolk Island",
       "Country_Number":574,
       "ISO3166-1alpha-3":"NFK",
-      "ISO3166-1alpha-2 ":"NF"
+      "ISO3166-1alpha-2":"NF"
    },
    {
       "Continent_Code":"EU",
@@ -1357,7 +1357,7 @@
       "Country_Name":"Norway, Kingdom of",
       "Country_Number":578,
       "ISO3166-1alpha-3":"NOR",
-      "ISO3166-1alpha-2 ":"NO"
+      "ISO3166-1alpha-2":"NO"
    },
    {
       "Continent_Code":"OC",
@@ -1365,7 +1365,7 @@
       "Country_Name":"Northern Mariana Islands, Commonwealth of the",
       "Country_Number":580,
       "ISO3166-1alpha-3":"MNP",
-      "ISO3166-1alpha-2 ":"MP"
+      "ISO3166-1alpha-2":"MP"
    },
    {
       "Continent_Code":"OC",
@@ -1373,7 +1373,7 @@
       "Country_Name":"United States Minor Outlying Islands",
       "Country_Number":581,
       "ISO3166-1alpha-3":"UMI",
-      "ISO3166-1alpha-2 ":"UM"
+      "ISO3166-1alpha-2":"UM"
    },
    {
       "Continent_Code":"NA",
@@ -1381,7 +1381,7 @@
       "Country_Name":"United States Minor Outlying Islands",
       "Country_Number":581,
       "ISO3166-1alpha-3":"UMI",
-      "ISO3166-1alpha-2 ":"UM"
+      "ISO3166-1alpha-2":"UM"
    },
    {
       "Continent_Code":"OC",
@@ -1389,7 +1389,7 @@
       "Country_Name":"Micronesia, Federated States of",
       "Country_Number":583,
       "ISO3166-1alpha-3":"FSM",
-      "ISO3166-1alpha-2 ":"FM"
+      "ISO3166-1alpha-2":"FM"
    },
    {
       "Continent_Code":"OC",
@@ -1397,7 +1397,7 @@
       "Country_Name":"Marshall Islands, Republic of the",
       "Country_Number":584,
       "ISO3166-1alpha-3":"MHL",
-      "ISO3166-1alpha-2 ":"MH"
+      "ISO3166-1alpha-2":"MH"
    },
    {
       "Continent_Code":"OC",
@@ -1405,7 +1405,7 @@
       "Country_Name":"Palau, Republic of",
       "Country_Number":585,
       "ISO3166-1alpha-3":"PLW",
-      "ISO3166-1alpha-2 ":"PW"
+      "ISO3166-1alpha-2":"PW"
    },
    {
       "Continent_Code":"AS",
@@ -1413,7 +1413,7 @@
       "Country_Name":"Pakistan, Islamic Republic of",
       "Country_Number":586,
       "ISO3166-1alpha-3":"PAK",
-      "ISO3166-1alpha-2 ":"PK"
+      "ISO3166-1alpha-2":"PK"
    },
    {
       "Continent_Code":"NA",
@@ -1421,7 +1421,7 @@
       "Country_Name":"Panama, Republic of",
       "Country_Number":591,
       "ISO3166-1alpha-3":"PAN",
-      "ISO3166-1alpha-2 ":"PA"
+      "ISO3166-1alpha-2":"PA"
    },
    {
       "Continent_Code":"OC",
@@ -1429,7 +1429,7 @@
       "Country_Name":"Papua New Guinea, Independent State of",
       "Country_Number":598,
       "ISO3166-1alpha-3":"PNG",
-      "ISO3166-1alpha-2 ":"PG"
+      "ISO3166-1alpha-2":"PG"
    },
    {
       "Continent_Code":"SA",
@@ -1437,7 +1437,7 @@
       "Country_Name":"Paraguay, Republic of",
       "Country_Number":600,
       "ISO3166-1alpha-3":"PRY",
-      "ISO3166-1alpha-2 ":"PY"
+      "ISO3166-1alpha-2":"PY"
    },
    {
       "Continent_Code":"SA",
@@ -1445,7 +1445,7 @@
       "Country_Name":"Peru, Republic of",
       "Country_Number":604,
       "ISO3166-1alpha-3":"PER",
-      "ISO3166-1alpha-2 ":"PE"
+      "ISO3166-1alpha-2":"PE"
    },
    {
       "Continent_Code":"AS",
@@ -1453,7 +1453,7 @@
       "Country_Name":"Philippines, Republic of the",
       "Country_Number":608,
       "ISO3166-1alpha-3":"PHL",
-      "ISO3166-1alpha-2 ":"PH"
+      "ISO3166-1alpha-2":"PH"
    },
    {
       "Continent_Code":"OC",
@@ -1461,7 +1461,7 @@
       "Country_Name":"Pitcairn Islands",
       "Country_Number":612,
       "ISO3166-1alpha-3":"PCN",
-      "ISO3166-1alpha-2 ":"PN"
+      "ISO3166-1alpha-2":"PN"
    },
    {
       "Continent_Code":"EU",
@@ -1469,7 +1469,7 @@
       "Country_Name":"Poland, Republic of",
       "Country_Number":616,
       "ISO3166-1alpha-3":"POL",
-      "ISO3166-1alpha-2 ":"PL"
+      "ISO3166-1alpha-2":"PL"
    },
    {
       "Continent_Code":"EU",
@@ -1477,7 +1477,7 @@
       "Country_Name":"Portugal, Portuguese Republic",
       "Country_Number":620,
       "ISO3166-1alpha-3":"PRT",
-      "ISO3166-1alpha-2 ":"PT"
+      "ISO3166-1alpha-2":"PT"
    },
    {
       "Continent_Code":"AF",
@@ -1485,7 +1485,7 @@
       "Country_Name":"Guinea-Bissau, Republic of",
       "Country_Number":624,
       "ISO3166-1alpha-3":"GNB",
-      "ISO3166-1alpha-2 ":"GW"
+      "ISO3166-1alpha-2":"GW"
    },
    {
       "Continent_Code":"AS",
@@ -1493,7 +1493,7 @@
       "Country_Name":"Timor-Leste, Democratic Republic of",
       "Country_Number":626,
       "ISO3166-1alpha-3":"TLS",
-      "ISO3166-1alpha-2 ":"TL"
+      "ISO3166-1alpha-2":"TL"
    },
    {
       "Continent_Code":"NA",
@@ -1501,7 +1501,7 @@
       "Country_Name":"Puerto Rico, Commonwealth of",
       "Country_Number":630,
       "ISO3166-1alpha-3":"PRI",
-      "ISO3166-1alpha-2 ":"PR"
+      "ISO3166-1alpha-2":"PR"
    },
    {
       "Continent_Code":"AS",
@@ -1509,7 +1509,7 @@
       "Country_Name":"Qatar, State of",
       "Country_Number":634,
       "ISO3166-1alpha-3":"QAT",
-      "ISO3166-1alpha-2 ":"QA"
+      "ISO3166-1alpha-2":"QA"
    },
    {
       "Continent_Code":"AF",
@@ -1517,7 +1517,7 @@
       "Country_Name":"Reunion",
       "Country_Number":638,
       "ISO3166-1alpha-3":"REU",
-      "ISO3166-1alpha-2 ":"RE"
+      "ISO3166-1alpha-2":"RE"
    },
    {
       "Continent_Code":"EU",
@@ -1525,7 +1525,7 @@
       "Country_Name":"Romania",
       "Country_Number":642,
       "ISO3166-1alpha-3":"ROU",
-      "ISO3166-1alpha-2 ":"RO"
+      "ISO3166-1alpha-2":"RO"
    },
    {
       "Continent_Code":"EU",
@@ -1533,7 +1533,7 @@
       "Country_Name":"Russian Federation",
       "Country_Number":643,
       "ISO3166-1alpha-3":"RUS",
-      "ISO3166-1alpha-2 ":"RU"
+      "ISO3166-1alpha-2":"RU"
    },
    {
       "Continent_Code":"AS",
@@ -1541,7 +1541,7 @@
       "Country_Name":"Russian Federation",
       "Country_Number":643,
       "ISO3166-1alpha-3":"RUS",
-      "ISO3166-1alpha-2 ":"RU"
+      "ISO3166-1alpha-2":"RU"
    },
    {
       "Continent_Code":"AF",
@@ -1549,7 +1549,7 @@
       "Country_Name":"Rwanda, Republic of",
       "Country_Number":646,
       "ISO3166-1alpha-3":"RWA",
-      "ISO3166-1alpha-2 ":"RW"
+      "ISO3166-1alpha-2":"RW"
    },
    {
       "Continent_Code":"NA",
@@ -1557,7 +1557,7 @@
       "Country_Name":"Saint Barthelemy",
       "Country_Number":652,
       "ISO3166-1alpha-3":"BLM",
-      "ISO3166-1alpha-2 ":"BL"
+      "ISO3166-1alpha-2":"BL"
    },
    {
       "Continent_Code":"AF",
@@ -1565,7 +1565,7 @@
       "Country_Name":"Saint Helena",
       "Country_Number":654,
       "ISO3166-1alpha-3":"SHN",
-      "ISO3166-1alpha-2 ":"SH"
+      "ISO3166-1alpha-2":"SH"
    },
    {
       "Continent_Code":"NA",
@@ -1573,7 +1573,7 @@
       "Country_Name":"Saint Kitts and Nevis, Federation of",
       "Country_Number":659,
       "ISO3166-1alpha-3":"KNA",
-      "ISO3166-1alpha-2 ":"KN"
+      "ISO3166-1alpha-2":"KN"
    },
    {
       "Continent_Code":"NA",
@@ -1581,7 +1581,7 @@
       "Country_Name":"Anguilla",
       "Country_Number":660,
       "ISO3166-1alpha-3":"AIA",
-      "ISO3166-1alpha-2 ":"AI"
+      "ISO3166-1alpha-2":"AI"
    },
    {
       "Continent_Code":"NA",
@@ -1589,7 +1589,7 @@
       "Country_Name":"Saint Lucia",
       "Country_Number":662,
       "ISO3166-1alpha-3":"LCA",
-      "ISO3166-1alpha-2 ":"LC"
+      "ISO3166-1alpha-2":"LC"
    },
    {
       "Continent_Code":"NA",
@@ -1597,7 +1597,7 @@
       "Country_Name":"Saint Martin",
       "Country_Number":663,
       "ISO3166-1alpha-3":"MAF",
-      "ISO3166-1alpha-2 ":"MF"
+      "ISO3166-1alpha-2":"MF"
    },
    {
       "Continent_Code":"NA",
@@ -1605,7 +1605,7 @@
       "Country_Name":"Saint Pierre and Miquelon",
       "Country_Number":666,
       "ISO3166-1alpha-3":"SPM",
-      "ISO3166-1alpha-2 ":"PM"
+      "ISO3166-1alpha-2":"PM"
    },
    {
       "Continent_Code":"NA",
@@ -1613,7 +1613,7 @@
       "Country_Name":"Saint Vincent and the Grenadines",
       "Country_Number":670,
       "ISO3166-1alpha-3":"VCT",
-      "ISO3166-1alpha-2 ":"VC"
+      "ISO3166-1alpha-2":"VC"
    },
    {
       "Continent_Code":"EU",
@@ -1621,7 +1621,7 @@
       "Country_Name":"San Marino, Republic of",
       "Country_Number":674,
       "ISO3166-1alpha-3":"SMR",
-      "ISO3166-1alpha-2 ":"SM"
+      "ISO3166-1alpha-2":"SM"
    },
    {
       "Continent_Code":"AF",
@@ -1629,7 +1629,7 @@
       "Country_Name":"Sao Tome and Principe, Democratic Republic of",
       "Country_Number":678,
       "ISO3166-1alpha-3":"STP",
-      "ISO3166-1alpha-2 ":"ST"
+      "ISO3166-1alpha-2":"ST"
    },
    {
       "Continent_Code":"AS",
@@ -1637,7 +1637,7 @@
       "Country_Name":"Saudi Arabia, Kingdom of",
       "Country_Number":682,
       "ISO3166-1alpha-3":"SAU",
-      "ISO3166-1alpha-2 ":"SA"
+      "ISO3166-1alpha-2":"SA"
    },
    {
       "Continent_Code":"AF",
@@ -1645,7 +1645,7 @@
       "Country_Name":"Senegal, Republic of",
       "Country_Number":686,
       "ISO3166-1alpha-3":"SEN",
-      "ISO3166-1alpha-2 ":"SN"
+      "ISO3166-1alpha-2":"SN"
    },
    {
       "Continent_Code":"EU",
@@ -1653,7 +1653,7 @@
       "Country_Name":"Serbia, Republic of",
       "Country_Number":688,
       "ISO3166-1alpha-3":"SRB",
-      "ISO3166-1alpha-2 ":"RS"
+      "ISO3166-1alpha-2":"RS"
    },
    {
       "Continent_Code":"AF",
@@ -1661,7 +1661,7 @@
       "Country_Name":"Seychelles, Republic of",
       "Country_Number":690,
       "ISO3166-1alpha-3":"SYC",
-      "ISO3166-1alpha-2 ":"SC"
+      "ISO3166-1alpha-2":"SC"
    },
    {
       "Continent_Code":"AF",
@@ -1669,7 +1669,7 @@
       "Country_Name":"Sierra Leone, Republic of",
       "Country_Number":694,
       "ISO3166-1alpha-3":"SLE",
-      "ISO3166-1alpha-2 ":"SL"
+      "ISO3166-1alpha-2":"SL"
    },
    {
       "Continent_Code":"AS",
@@ -1677,7 +1677,7 @@
       "Country_Name":"Singapore, Republic of",
       "Country_Number":702,
       "ISO3166-1alpha-3":"SGP",
-      "ISO3166-1alpha-2 ":"SG"
+      "ISO3166-1alpha-2":"SG"
    },
    {
       "Continent_Code":"EU",
@@ -1685,7 +1685,7 @@
       "Country_Name":"Slovakia (Slovak Republic)",
       "Country_Number":703,
       "ISO3166-1alpha-3":"SVK",
-      "ISO3166-1alpha-2 ":"SK"
+      "ISO3166-1alpha-2":"SK"
    },
    {
       "Continent_Code":"AS",
@@ -1693,7 +1693,7 @@
       "Country_Name":"Vietnam, Socialist Republic of",
       "Country_Number":704,
       "ISO3166-1alpha-3":"VNM",
-      "ISO3166-1alpha-2 ":"VN"
+      "ISO3166-1alpha-2":"VN"
    },
    {
       "Continent_Code":"EU",
@@ -1701,7 +1701,7 @@
       "Country_Name":"Slovenia, Republic of",
       "Country_Number":705,
       "ISO3166-1alpha-3":"SVN",
-      "ISO3166-1alpha-2 ":"SI"
+      "ISO3166-1alpha-2":"SI"
    },
    {
       "Continent_Code":"AF",
@@ -1709,7 +1709,7 @@
       "Country_Name":"Somalia, Somali Republic",
       "Country_Number":706,
       "ISO3166-1alpha-3":"SOM",
-      "ISO3166-1alpha-2 ":"SO"
+      "ISO3166-1alpha-2":"SO"
    },
    {
       "Continent_Code":"AF",
@@ -1717,7 +1717,7 @@
       "Country_Name":"South Africa, Republic of",
       "Country_Number":710,
       "ISO3166-1alpha-3":"ZAF",
-      "ISO3166-1alpha-2 ":"ZA"
+      "ISO3166-1alpha-2":"ZA"
    },
    {
       "Continent_Code":"AF",
@@ -1725,7 +1725,7 @@
       "Country_Name":"Zimbabwe, Republic of",
       "Country_Number":716,
       "ISO3166-1alpha-3":"ZWE",
-      "ISO3166-1alpha-2 ":"ZW"
+      "ISO3166-1alpha-2":"ZW"
    },
    {
       "Continent_Code":"EU",
@@ -1733,7 +1733,7 @@
       "Country_Name":"Spain, Kingdom of",
       "Country_Number":724,
       "ISO3166-1alpha-3":"ESP",
-      "ISO3166-1alpha-2 ":"ES"
+      "ISO3166-1alpha-2":"ES"
    },
    {
       "Continent_Code":"AF",
@@ -1741,7 +1741,7 @@
       "Country_Name":"South Sudan",
       "Country_Number":728,
       "ISO3166-1alpha-3":"SSD",
-      "ISO3166-1alpha-2 ":"SS"
+      "ISO3166-1alpha-2":"SS"
    },
    {
       "Continent_Code":"AF",
@@ -1749,7 +1749,7 @@
       "Country_Name":"Western Sahara",
       "Country_Number":732,
       "ISO3166-1alpha-3":"ESH",
-      "ISO3166-1alpha-2 ":"EH"
+      "ISO3166-1alpha-2":"EH"
    },
    {
       "Continent_Code":"AF",
@@ -1757,7 +1757,7 @@
       "Country_Name":"Sudan, Republic of",
       "Country_Number":736,
       "ISO3166-1alpha-3":"SDN",
-      "ISO3166-1alpha-2 ":"SD"
+      "ISO3166-1alpha-2":"SD"
    },
    {
       "Continent_Code":"SA",
@@ -1765,7 +1765,7 @@
       "Country_Name":"Suriname, Republic of",
       "Country_Number":740,
       "ISO3166-1alpha-3":"SUR",
-      "ISO3166-1alpha-2 ":"SR"
+      "ISO3166-1alpha-2":"SR"
    },
    {
       "Continent_Code":"EU",
@@ -1773,7 +1773,7 @@
       "Country_Name":"Svalbard & Jan Mayen Islands",
       "Country_Number":744,
       "ISO3166-1alpha-3":"SJM",
-      "ISO3166-1alpha-2 ":"SJ"
+      "ISO3166-1alpha-2":"SJ"
    },
    {
       "Continent_Code":"AF",
@@ -1781,7 +1781,7 @@
       "Country_Name":"Swaziland, Kingdom of",
       "Country_Number":748,
       "ISO3166-1alpha-3":"SWZ",
-      "ISO3166-1alpha-2 ":"SZ"
+      "ISO3166-1alpha-2":"SZ"
    },
    {
       "Continent_Code":"EU",
@@ -1789,7 +1789,7 @@
       "Country_Name":"Sweden, Kingdom of",
       "Country_Number":752,
       "ISO3166-1alpha-3":"SWE",
-      "ISO3166-1alpha-2 ":"SE"
+      "ISO3166-1alpha-2":"SE"
    },
    {
       "Continent_Code":"EU",
@@ -1797,7 +1797,7 @@
       "Country_Name":"Switzerland, Swiss Confederation",
       "Country_Number":756,
       "ISO3166-1alpha-3":"CHE",
-      "ISO3166-1alpha-2 ":"CH"
+      "ISO3166-1alpha-2":"CH"
    },
    {
       "Continent_Code":"AS",
@@ -1805,7 +1805,7 @@
       "Country_Name":"Syrian Arab Republic",
       "Country_Number":760,
       "ISO3166-1alpha-3":"SYR",
-      "ISO3166-1alpha-2 ":"SY"
+      "ISO3166-1alpha-2":"SY"
    },
    {
       "Continent_Code":"AS",
@@ -1813,7 +1813,7 @@
       "Country_Name":"Tajikistan, Republic of",
       "Country_Number":762,
       "ISO3166-1alpha-3":"TJK",
-      "ISO3166-1alpha-2 ":"TJ"
+      "ISO3166-1alpha-2":"TJ"
    },
    {
       "Continent_Code":"AS",
@@ -1821,7 +1821,7 @@
       "Country_Name":"Thailand, Kingdom of",
       "Country_Number":764,
       "ISO3166-1alpha-3":"THA",
-      "ISO3166-1alpha-2 ":"TH"
+      "ISO3166-1alpha-2":"TH"
    },
    {
       "Continent_Code":"AF",
@@ -1829,7 +1829,7 @@
       "Country_Name":"Togo, Togolese Republic",
       "Country_Number":768,
       "ISO3166-1alpha-3":"TGO",
-      "ISO3166-1alpha-2 ":"TG"
+      "ISO3166-1alpha-2":"TG"
    },
    {
       "Continent_Code":"OC",
@@ -1837,7 +1837,7 @@
       "Country_Name":"Tokelau",
       "Country_Number":772,
       "ISO3166-1alpha-3":"TKL",
-      "ISO3166-1alpha-2 ":"TK"
+      "ISO3166-1alpha-2":"TK"
    },
    {
       "Continent_Code":"OC",
@@ -1845,7 +1845,7 @@
       "Country_Name":"Tonga, Kingdom of",
       "Country_Number":776,
       "ISO3166-1alpha-3":"TON",
-      "ISO3166-1alpha-2 ":"TO"
+      "ISO3166-1alpha-2":"TO"
    },
    {
       "Continent_Code":"NA",
@@ -1853,7 +1853,7 @@
       "Country_Name":"Trinidad and Tobago, Republic of",
       "Country_Number":780,
       "ISO3166-1alpha-3":"TTO",
-      "ISO3166-1alpha-2 ":"TT"
+      "ISO3166-1alpha-2":"TT"
    },
    {
       "Continent_Code":"AS",
@@ -1861,7 +1861,7 @@
       "Country_Name":"United Arab Emirates",
       "Country_Number":784,
       "ISO3166-1alpha-3":"ARE",
-      "ISO3166-1alpha-2 ":"AE"
+      "ISO3166-1alpha-2":"AE"
    },
    {
       "Continent_Code":"AF",
@@ -1869,7 +1869,7 @@
       "Country_Name":"Tunisia, Tunisian Republic",
       "Country_Number":788,
       "ISO3166-1alpha-3":"TUN",
-      "ISO3166-1alpha-2 ":"TN"
+      "ISO3166-1alpha-2":"TN"
    },
    {
       "Continent_Code":"EU",
@@ -1877,7 +1877,7 @@
       "Country_Name":"Turkey, Republic of",
       "Country_Number":792,
       "ISO3166-1alpha-3":"TUR",
-      "ISO3166-1alpha-2 ":"TR"
+      "ISO3166-1alpha-2":"TR"
    },
    {
       "Continent_Code":"AS",
@@ -1885,7 +1885,7 @@
       "Country_Name":"Turkey, Republic of",
       "Country_Number":792,
       "ISO3166-1alpha-3":"TUR",
-      "ISO3166-1alpha-2 ":"TR"
+      "ISO3166-1alpha-2":"TR"
    },
    {
       "Continent_Code":"AS",
@@ -1893,7 +1893,7 @@
       "Country_Name":"Turkmenistan",
       "Country_Number":795,
       "ISO3166-1alpha-3":"TKM",
-      "ISO3166-1alpha-2 ":"TM"
+      "ISO3166-1alpha-2":"TM"
    },
    {
       "Continent_Code":"NA",
@@ -1901,7 +1901,7 @@
       "Country_Name":"Turks and Caicos Islands",
       "Country_Number":796,
       "ISO3166-1alpha-3":"TCA",
-      "ISO3166-1alpha-2 ":"TC"
+      "ISO3166-1alpha-2":"TC"
    },
    {
       "Continent_Code":"OC",
@@ -1909,7 +1909,7 @@
       "Country_Name":"Tuvalu",
       "Country_Number":798,
       "ISO3166-1alpha-3":"TUV",
-      "ISO3166-1alpha-2 ":"TV"
+      "ISO3166-1alpha-2":"TV"
    },
    {
       "Continent_Code":"AF",
@@ -1917,7 +1917,7 @@
       "Country_Name":"Uganda, Republic of",
       "Country_Number":800,
       "ISO3166-1alpha-3":"UGA",
-      "ISO3166-1alpha-2 ":"UG"
+      "ISO3166-1alpha-2":"UG"
    },
    {
       "Continent_Code":"EU",
@@ -1925,7 +1925,7 @@
       "Country_Name":"Ukraine",
       "Country_Number":804,
       "ISO3166-1alpha-3":"UKR",
-      "ISO3166-1alpha-2 ":"UA"
+      "ISO3166-1alpha-2":"UA"
    },
    {
       "Continent_Code":"EU",
@@ -1933,7 +1933,7 @@
       "Country_Name":"Macedonia, The Former Yugoslav Republic of",
       "Country_Number":807,
       "ISO3166-1alpha-3":"MKD",
-      "ISO3166-1alpha-2 ":"MK"
+      "ISO3166-1alpha-2":"MK"
    },
    {
       "Continent_Code":"AF",
@@ -1941,7 +1941,7 @@
       "Country_Name":"Egypt, Arab Republic of",
       "Country_Number":818,
       "ISO3166-1alpha-3":"EGY",
-      "ISO3166-1alpha-2 ":"EG"
+      "ISO3166-1alpha-2":"EG"
    },
    {
       "Continent_Code":"EU",
@@ -1949,7 +1949,7 @@
       "Country_Name":"United Kingdom of Great Britain & Northern Ireland",
       "Country_Number":826,
       "ISO3166-1alpha-3":"GBR",
-      "ISO3166-1alpha-2 ":"GB"
+      "ISO3166-1alpha-2":"GB"
    },
    {
       "Continent_Code":"EU",
@@ -1957,7 +1957,7 @@
       "Country_Name":"Guernsey, Bailiwick of",
       "Country_Number":831,
       "ISO3166-1alpha-3":"GGY",
-      "ISO3166-1alpha-2 ":"GG"
+      "ISO3166-1alpha-2":"GG"
    },
    {
       "Continent_Code":"EU",
@@ -1965,7 +1965,7 @@
       "Country_Name":"Jersey, Bailiwick of",
       "Country_Number":832,
       "ISO3166-1alpha-3":"JEY",
-      "ISO3166-1alpha-2 ":"JE"
+      "ISO3166-1alpha-2":"JE"
    },
    {
       "Continent_Code":"EU",
@@ -1973,7 +1973,7 @@
       "Country_Name":"Isle of Man",
       "Country_Number":833,
       "ISO3166-1alpha-3":"IMN",
-      "ISO3166-1alpha-2 ":"IM"
+      "ISO3166-1alpha-2":"IM"
    },
    {
       "Continent_Code":"AF",
@@ -1981,7 +1981,7 @@
       "Country_Name":"Tanzania, United Republic of",
       "Country_Number":834,
       "ISO3166-1alpha-3":"TZA",
-      "ISO3166-1alpha-2 ":"TZ"
+      "ISO3166-1alpha-2":"TZ"
    },
    {
       "Continent_Code":"NA",
@@ -1989,7 +1989,7 @@
       "Country_Name":"United States of America",
       "Country_Number":840,
       "ISO3166-1alpha-3":"USA",
-      "ISO3166-1alpha-2 ":"US"
+      "ISO3166-1alpha-2":"US"
    },
    {
       "Continent_Code":"NA",
@@ -1997,7 +1997,7 @@
       "Country_Name":"United States Virgin Islands",
       "Country_Number":850,
       "ISO3166-1alpha-3":"VIR",
-      "ISO3166-1alpha-2 ":"VI"
+      "ISO3166-1alpha-2":"VI"
    },
    {
       "Continent_Code":"AF",
@@ -2005,7 +2005,7 @@
       "Country_Name":"Burkina Faso",
       "Country_Number":854,
       "ISO3166-1alpha-3":"BFA",
-      "ISO3166-1alpha-2 ":"BF"
+      "ISO3166-1alpha-2":"BF"
    },
    {
       "Continent_Code":"SA",
@@ -2013,7 +2013,7 @@
       "Country_Name":"Uruguay, Eastern Republic of",
       "Country_Number":858,
       "ISO3166-1alpha-3":"URY",
-      "ISO3166-1alpha-2 ":"UY"
+      "ISO3166-1alpha-2":"UY"
    },
    {
       "Continent_Code":"AS",
@@ -2021,7 +2021,7 @@
       "Country_Name":"Uzbekistan, Republic of",
       "Country_Number":860,
       "ISO3166-1alpha-3":"UZB",
-      "ISO3166-1alpha-2 ":"UZ"
+      "ISO3166-1alpha-2":"UZ"
    },
    {
       "Continent_Code":"SA",
@@ -2029,7 +2029,7 @@
       "Country_Name":"Venezuela, Bolivarian Republic of",
       "Country_Number":862,
       "ISO3166-1alpha-3":"VEN",
-      "ISO3166-1alpha-2 ":"VE"
+      "ISO3166-1alpha-2":"VE"
    },
    {
       "Continent_Code":"OC",
@@ -2037,7 +2037,7 @@
       "Country_Name":"Wallis and Futuna",
       "Country_Number":876,
       "ISO3166-1alpha-3":"WLF",
-      "ISO3166-1alpha-2 ":"WF"
+      "ISO3166-1alpha-2":"WF"
    },
    {
       "Continent_Code":"OC",
@@ -2045,7 +2045,7 @@
       "Country_Name":"Samoa, Independent State of",
       "Country_Number":882,
       "ISO3166-1alpha-3":"WSM",
-      "ISO3166-1alpha-2 ":"WS"
+      "ISO3166-1alpha-2":"WS"
    },
    {
       "Continent_Code":"AS",
@@ -2053,7 +2053,7 @@
       "Country_Name":"Yemen",
       "Country_Number":887,
       "ISO3166-1alpha-3":"YEM",
-      "ISO3166-1alpha-2 ":"YE"
+      "ISO3166-1alpha-2":"YE"
    },
    {
       "Continent_Code":"AF",
@@ -2061,7 +2061,7 @@
       "Country_Name":"Zambia, Republic of",
       "Country_Number":894,
       "ISO3166-1alpha-3":"ZMB",
-      "ISO3166-1alpha-2 ":"ZM"
+      "ISO3166-1alpha-2":"ZM"
    },
    {
       "Continent_Code":"OC",
@@ -2069,7 +2069,7 @@
       "Country_Name":"Disputed Territory",
       "Country_Number":null,
       "ISO3166-1alpha-3":null,
-      "ISO3166-1alpha-2 ":"XX"
+      "ISO3166-1alpha-2":"XX"
    },
    {
       "Continent_Code":"AS",
@@ -2077,7 +2077,7 @@
       "Country_Name":"Iraq-Saudi Arabia Neutral Zone",
       "Country_Number":null,
       "ISO3166-1alpha-3":null,
-      "ISO3166-1alpha-2 ":"XE"
+      "ISO3166-1alpha-2":"XE"
    },
    {
       "Continent_Code":"AS",
@@ -2085,7 +2085,7 @@
       "Country_Name":"United Nations Neutral Zone",
       "Country_Number":null,
       "ISO3166-1alpha-3":null,
-      "ISO3166-1alpha-2 ":"XD"
+      "ISO3166-1alpha-2":"XD"
    },
    {
       "Continent_Code":"AS",
@@ -2093,7 +2093,7 @@
       "Country_Name":"Spratly Islands",
       "Country_Number":null,
       "ISO3166-1alpha-3":null,
-      "ISO3166-1alpha-2 ":"XS"
+      "ISO3166-1alpha-2":"XS"
    },
    {
       "Continent_Code":"EU",
@@ -2101,6 +2101,6 @@
       "Country_Name":"Kosovo",
       "Country_Number":null,
       "ISO3166-1alpha-3":"XKX",
-      "ISO3166-1alpha-2 ":"XK"
+      "ISO3166-1alpha-2":"XK"
    }
 ]
