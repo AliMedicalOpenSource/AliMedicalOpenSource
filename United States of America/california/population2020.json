@@ -1,0 +1,234 @@
+[
+  {
+    "County": "Alameda County",
+    "Population": "1,671,329"
+  },
+  {
+    "County": "Alpine County",
+    "Population": "1,129"
+  },
+  {
+    "County": "Amador County",
+    "Population": "39,752"
+  },
+  {
+    "County": "Butte County",
+    "Population": "219,186"
+  },
+  {
+    "County": "Calaveras County",
+    "Population": "45,905"
+  },
+  {
+    "County": "Colusa County",
+    "Population": "21,547"
+  },
+  {
+    "County": "Contra Costa County",
+    "Population": "1,153,526"
+  },
+  {
+    "County": "Del Norte County",
+    "Population": "27,812"
+  },
+  {
+    "County": "El Dorado County",
+    "Population": "192,843"
+  },
+  {
+    "County": "Fresno County",
+    "Population": "999,101"
+  },
+  {
+    "County": "Glenn County",
+    "Population": "28,393"
+  },
+  {
+    "County": "Humboldt County",
+    "Population": "135,558"
+  },
+  {
+    "County": "Imperial County",
+    "Population": "181,215"
+  },
+  {
+    "County": "Inyo County",
+    "Population": "18,039"
+  },
+  {
+    "County": "Kern County",
+    "Population": "900,202"
+  },
+  {
+    "County": "Kings County",
+    "Population": "152,940"
+  },
+  {
+    "County": "Lake County",
+    "Population": "64,386"
+  },
+  {
+    "County": "Lassen County",
+    "Population": "30,573"
+  },
+  {
+    "County": "Los Angeles County",
+    "Population": "10,039,107"
+  },
+  {
+    "County": "Madera County",
+    "Population": "157,327"
+  },
+  {
+    "County": "Marin County",
+    "Population": "258,826"
+  },
+  {
+    "County": "Mariposa County",
+    "Population": "17,203"
+  },
+  {
+    "County": "Mendocino County",
+    "Population": "86,749"
+  },
+  {
+    "County": "Merced County",
+    "Population": "277,680"
+  },
+  {
+    "County": "Modoc County",
+    "Population": "8,841"
+  },
+  {
+    "County": "Mono County",
+    "Population": "14,444"
+  },
+  {
+    "County": "Monterey County",
+    "Population": "434,061"
+  },
+  {
+    "County": "Napa County",
+    "Population": "137,744"
+  },
+  {
+    "County": "Nevada County",
+    "Population": "99,755"
+  },
+  {
+    "County": "Orange County",
+    "Population": "3,175,692"
+  },
+  {
+    "County": "Placer County",
+    "Population": "398,329"
+  },
+  {
+    "County": "Plumas County",
+    "Population": "18,807"
+  },
+  {
+    "County": "Riverside County",
+    "Population": "2,470,546"
+  },
+  {
+    "County": "Sacramento County",
+    "Population": "1,552,058"
+  },
+  {
+    "County": "San Benito County",
+    "Population": "62,808"
+  },
+  {
+    "County": "San Bernardino County",
+    "Population": "2,180,085"
+  },
+  {
+    "County": "San Diego County",
+    "Population": "3,338,330"
+  },
+  {
+    "County": "San Francisco County",
+    "Population": "881,549"
+  },
+  {
+    "County": "San Joaquin County",
+    "Population": "762,148"
+  },
+  {
+    "County": "San Luis Obispo County",
+    "Population": "283,111"
+  },
+  {
+    "County": "San Mateo County",
+    "Population": "766,573"
+  },
+  {
+    "County": "Santa Barbara County",
+    "Population": "446,499"
+  },
+  {
+    "County": "Santa Clara County",
+    "Population": "1,927,852"
+  },
+  {
+    "County": "Santa Cruz County",
+    "Population": "273,213"
+  },
+  {
+    "County": "Shasta County",
+    "Population": "180,080"
+  },
+  {
+    "County": "Sierra County",
+    "Population": "3,005"
+  },
+  {
+    "County": "Siskiyou County",
+    "Population": "43,539"
+  },
+  {
+    "County": "Solano County",
+    "Population": "447,643"
+  },
+  {
+    "County": "Sonoma County",
+    "Population": "494,336"
+  },
+  {
+    "County": "Stanislaus County",
+    "Population": "550,660"
+  },
+  {
+    "County": "Sutter County",
+    "Population": "96,971"
+  },
+  {
+    "County": "Tehama County",
+    "Population": "65,084"
+  },
+  {
+    "County": "Trinity County",
+    "Population": "12,285"
+  },
+  {
+    "County": "Tulare County",
+    "Population": "466,195"
+  },
+  {
+    "County": "Tuolumne County",
+    "Population": "54,478"
+  },
+  {
+    "County": "Ventura County",
+    "Population": "846,006"
+  },
+  {
+    "County": "Yolo County",
+    "Population": "220,500"
+  },
+  {
+    "County": "Yuba County",
+    "Population": "78,668"
+  }
+]
